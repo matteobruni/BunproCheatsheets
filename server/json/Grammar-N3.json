@@ -1,0 +1,870 @@
+[
+  {
+    "name": "ばいい",
+    "description": "Can, Should, It'd be good if"
+  },
+  {
+    "name": "たらいい・といい",
+    "description": "It would be nice if, It would be good if, Should, I hope"
+  },
+  {
+    "name": "中",
+    "description": "During, While, Throughout, In the process of"
+  },
+  {
+    "name": "の間に",
+    "description": "While, During, Between, Period"
+  },
+  {
+    "name": "うちに",
+    "description": "While, During"
+  },
+  {
+    "name": "ないうちに",
+    "description": "Before it becomes, Before ~ occurs, Without"
+  },
+  {
+    "name": "べき",
+    "description": "Must, Should , Ought to"
+  },
+  {
+    "name": "べきではない",
+    "description": "Should not, Must not , Ought not to"
+  },
+  {
+    "name": "って",
+    "description": "As for, Speaking of, Casual は (Sentence topic marker)"
+  },
+  {
+    "name": "なかなか",
+    "description": "Very, Quite, Considerably"
+  },
+  {
+    "name": "あまり",
+    "description": "So much...that"
+  },
+  {
+    "name": "なかなか～ない",
+    "description": "Not really, Hardly, Not easily or readily, By no means, Far from"
+  },
+  {
+    "name": "によると・によれば",
+    "description": "According to"
+  },
+  {
+    "name": "によって・による",
+    "description": "By means of, According to, Depending on, Because of, Due to"
+  },
+  {
+    "name": "全く～ない",
+    "description": "Not~at all"
+  },
+  {
+    "name": "ことだ",
+    "description": "Should, Ought"
+  },
+  {
+    "name": "そうだ",
+    "description": "I heard that, It is said that"
+  },
+  {
+    "name": "すると",
+    "description": "Having done..., If...is done..., (And/just) then, Thereupon, If so"
+  },
+  {
+    "name": "そうすると",
+    "description": "Having done that..., If that is done..., (And/just) then, Thereupon, If so"
+  },
+  {
+    "name": "のはXの方だ",
+    "description": "It is...that..., It is...who..., ...is the one that..., ...is the one who..."
+  },
+  {
+    "name": "Noun＋型",
+    "description": "Model, Type, Pattern, Kind, Shape, Size(d)"
+  },
+  {
+    "name": "てごらん",
+    "description": "(Please) try to, (Please) look"
+  },
+  {
+    "name": "Particle + の",
+    "description": "Combined particles"
+  },
+  {
+    "name": "である",
+    "description": "Formal or literary だ, Authoritative, Copula"
+  },
+  {
+    "name": "ところが",
+    "description": "Even so, However, Even though, But"
+  },
+  {
+    "name": "ところで",
+    "description": "By the way, Incidentally"
+  },
+  {
+    "name": "ほど",
+    "description": "The more, About, To the extent that, So much… that"
+  },
+  {
+    "name": "ば〜ほど",
+    "description": "The more…the more"
+  },
+  {
+    "name": "ほど～ない",
+    "description": "Is not as…as, Isn't... like..., Not to the extent of..."
+  },
+  {
+    "name": "では・それでは・じゃあ",
+    "description": "If so, Well (then), In that case"
+  },
+  {
+    "name": "のに",
+    "description": "In order to"
+  },
+  {
+    "name": "ため(に)",
+    "description": "For, For the sake of, In order to"
+  },
+  {
+    "name": "ために",
+    "description": "Due to, Because of, As a result of"
+  },
+  {
+    "name": "という",
+    "description": "Called, Named, Known as, As much as"
+  },
+  {
+    "name": "ということだ",
+    "description": "I heard that, Rumor has it that, It is said that, It means that"
+  },
+  {
+    "name": "というのは",
+    "description": "~ Known as ~ is, ~ Called ~ is, ~ Means ~, Because"
+  },
+  {
+    "name": "的",
+    "description": "~ly・~like・~al, Typical"
+  },
+  {
+    "name": "もの・もん",
+    "description": "Because, Cause"
+  },
+  {
+    "name": "ものだ",
+    "description": "Supposed to, Should, That's the way it is"
+  },
+  {
+    "name": "最中に",
+    "description": "In the middle of"
+  },
+  {
+    "name": "上で",
+    "description": "After, Upon"
+  },
+  {
+    "name": "おかげで",
+    "description": "Thanks to, Because of"
+  },
+  {
+    "name": "にもとづいて",
+    "description": "Based on, In accordance with"
+  },
+  {
+    "name": "点",
+    "description": "Aspect, Respect, Point, Way, In terms of, In that, From the point of view"
+  },
+  {
+    "name": "なぜなら〜から",
+    "description": "Because, The reason is, That is because"
+  },
+  {
+    "name": "こそ",
+    "description": "For sure, For certain, Even more so, Underlined or bolded text"
+  },
+  {
+    "name": "からこそ",
+    "description": "Emphasized because, Precisely because"
+  },
+  {
+    "name": "ばかり",
+    "description": "Just, Only, Nothing but"
+  },
+  {
+    "name": "ばかりだ",
+    "description": "(Only) continue to, Keep on -ing, More and more"
+  },
+  {
+    "name": "ばかりに",
+    "description": "Simply because, Only because, Just because, Simply on account of"
+  },
+  {
+    "name": "ことがある",
+    "description": "Something is possible, Sometimes, Occasionally, There are times when"
+  },
+  {
+    "name": "ことにする",
+    "description": "To decide on, Have decided to"
+  },
+  {
+    "name": "ことなの",
+    "description": "(A) is (Description of A), (A) means that (Description of A)"
+  },
+  {
+    "name": "ことになる",
+    "description": "It will end up being, It is the result of, It has been decided that"
+  },
+  {
+    "name": "～は～で有名",
+    "description": "Is famous for"
+  },
+  {
+    "name": "ことはない",
+    "description": "There is no need to, Never happens"
+  },
+  {
+    "name": "～と言っても",
+    "description": "Although ~ might say that ~"
+  },
+  {
+    "name": "といえば",
+    "description": "Speaking of, If it were the case that"
+  },
+  {
+    "name": "合う",
+    "description": "To or for one another, Mutually, With"
+  },
+  {
+    "name": "に合わせて・に合った",
+    "description": "In accordance with, Matching, Fitting, Suitable for, Adjust or tune to"
+  },
+  {
+    "name": "について",
+    "description": "Concerning, About, Regarding"
+  },
+  {
+    "name": "～(の)姿",
+    "description": "Figure, Shape, Appearance, Looks, Wearing, Dressed in, Presence"
+  },
+  {
+    "name": "と言える",
+    "description": "Would or could say that..., Can probably say that..., Fair to say that..."
+  },
+  {
+    "name": "ちゃんと・きちんと",
+    "description": "Properly, Neatly, Orderly, Sufficiently, Decently"
+  },
+  {
+    "name": "そのため(に)",
+    "description": "For that reason, Because of that, To that end"
+  },
+  {
+    "name": "その結果",
+    "description": "As a result"
+  },
+  {
+    "name": "に比べて",
+    "description": "Compared to, When compared to"
+  },
+  {
+    "name": "どんなに〜ても",
+    "description": "No matter how"
+  },
+  {
+    "name": "いくら〜でも",
+    "description": "No matter how (much)"
+  },
+  {
+    "name": "〜かは〜によって違う",
+    "description": "Depends on, Changes depending on, Differ depending on"
+  },
+  {
+    "name": "かなり",
+    "description": "Quite, Considerably, Pretty, Fairly"
+  },
+  {
+    "name": "あまりに",
+    "description": "So much...that, (Way) too..."
+  },
+  {
+    "name": "わけだ",
+    "description": "For that reason, No wonder, As you'd expect, Naturally, Thus, This is why"
+  },
+  {
+    "name": "わけではない",
+    "description": "It doesn't mean that, It is not the case, It's not like"
+  },
+  {
+    "name": "と同時に",
+    "description": "At the same time as, The instant, The moment, As well as"
+  },
+  {
+    "name": "ところだった ①",
+    "description": "Almost, Nearly, About to, On the verge of"
+  },
+  {
+    "name": "だって",
+    "description": "I heard/was said, Because, But, Even or also, Even if or even though"
+  },
+  {
+    "name": "んだって",
+    "description": "I heard that, He or She said that"
+  },
+  {
+    "name": "関係がある",
+    "description": "(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to"
+  },
+  {
+    "name": "に関する・に関して",
+    "description": "Related to, About, Regarding"
+  },
+  {
+    "name": "に対して",
+    "description": "In contrast to, While, In regard to, Whereas"
+  },
+  {
+    "name": "くらい ②",
+    "description": "To the extent that, So…that, About the only thing that..."
+  },
+  {
+    "name": "は～くらいです",
+    "description": "About the only, To the extent that"
+  },
+  {
+    "name": "さ - Interjection",
+    "description": "All right, There we go, Now, You see, Well (I don't know, let me see)"
+  },
+  {
+    "name": "さ - Filler",
+    "description": "Like, You know, You see, Listen, Uhh"
+  },
+  {
+    "name": "さ - Casual よ",
+    "description": "Casual よ"
+  },
+  {
+    "name": "それぞれ",
+    "description": "Each, Respectively"
+  },
+  {
+    "name": "まま(に)",
+    "description": "As is, While remaining, Left in a state"
+  },
+  {
+    "name": "そこで",
+    "description": "Accordingly, Now, Therefore, To that end"
+  },
+  {
+    "name": "しかない",
+    "description": "Have no choice but, Only, Just"
+  },
+  {
+    "name": "てもかまわない",
+    "description": "It doesn't matter if, I don't mind"
+  },
+  {
+    "name": "～ても～なくても",
+    "description": "Whether ~ or not"
+  },
+  {
+    "name": "わけがない",
+    "description": "There is no way, There is no reason, It is impossible, Cannot be"
+  },
+  {
+    "name": "としたら・とすれば・とすると",
+    "description": "If it were the case that, Assuming that..."
+  },
+  {
+    "name": "として",
+    "description": "As (i.e. in the role of), For"
+  },
+  {
+    "name": "にしては",
+    "description": "(Even) considering, (Even) for"
+  },
+  {
+    "name": "にしても",
+    "description": "Even though, Even if, Even when, Also"
+  },
+  {
+    "name": "～というのは事実だ",
+    "description": "It is a fact that ~, There is no doubt that"
+  },
+  {
+    "name": "から言うと",
+    "description": "Speaking in terms of, From the point of view of"
+  },
+  {
+    "name": "に取って",
+    "description": "To, For, Concerning"
+  },
+  {
+    "name": "ことから",
+    "description": "From the fact that"
+  },
+  {
+    "name": "というより",
+    "description": "...is more of a... than a..., Rather than saying that..."
+  },
+  {
+    "name": "はもちろん",
+    "description": "Not only but also, Let alone, Not to mention, Of course"
+  },
+  {
+    "name": "をはじめ",
+    "description": "Not only...but also..., Starting with"
+  },
+  {
+    "name": "て初めて",
+    "description": "For the first time, Not until, Only after, Only when, Only because"
+  },
+  {
+    "name": "さえ",
+    "description": "Even"
+  },
+  {
+    "name": "さえ〜ば",
+    "description": "If only…then, As long as..., Provided..., Only thing ... needs for ... is ..."
+  },
+  {
+    "name": "たものだ",
+    "description": "Used to"
+  },
+  {
+    "name": "さて",
+    "description": "Well, Well then"
+  },
+  {
+    "name": "むしろ",
+    "description": "Rather, Instead, Over"
+  },
+  {
+    "name": "つまり",
+    "description": "In short, To sum up, In other words"
+  },
+  {
+    "name": "即ち",
+    "description": "In other words, That is, Namely"
+  },
+  {
+    "name": "却って",
+    "description": "All the more, On the contrary, Conversely"
+  },
+  {
+    "name": "まるで…ようだ",
+    "description": "It is entirely as if, It is just as though"
+  },
+  {
+    "name": "ような気がする",
+    "description": "Have a feeling that"
+  },
+  {
+    "name": "とても～ない",
+    "description": "Not ~ at all, Cannot ~ at all"
+  },
+  {
+    "name": "別に〜ない",
+    "description": "Not really, Not particularly, It's not like..."
+  },
+  {
+    "name": "ばかりでなく",
+    "description": "Not only…but also, As well as"
+  },
+  {
+    "name": "ではなくて・じゃなくて",
+    "description": "Not A but B, Conjunctive"
+  },
+  {
+    "name": "だけでなく(て)～も",
+    "description": "Not only ~ but ~ also, Not just ~ but ~ also"
+  },
+  {
+    "name": "だけしか",
+    "description": "To emphasize '~only', Nothing but"
+  },
+  {
+    "name": "は言うまでもない ①",
+    "description": "It goes without saying (that), (It is) needless to say, I don't need to remind you"
+  },
+  {
+    "name": "決して〜ない",
+    "description": "Never, By no means"
+  },
+  {
+    "name": "わけにはいかない",
+    "description": "Cannot afford to, No way, Impossible to do"
+  },
+  {
+    "name": "〜ようとしない",
+    "description": "Not willing to, Not make an effort to, To not attempt or try to, Volitional + としない"
+  },
+  {
+    "name": "もしかしたら",
+    "description": "Perhaps, Maybe, Possibly"
+  },
+  {
+    "name": "たとえ〜ても",
+    "description": "Even if…is the case, Supposing that"
+  },
+  {
+    "name": "ことに",
+    "description": "Extremely, Especially, To my ..."
+  },
+  {
+    "name": "ことか",
+    "description": "How…, What..., God knows..."
+  },
+  {
+    "name": "～かというと ①",
+    "description": "Why? Well..., Why? Because..., If you ask me why..., The reason why is..., It is because..."
+  },
+  {
+    "name": "～かというと ②",
+    "description": "If you ask me..., If I had to say, If I were to say, If I were to choose one, I'd rather"
+  },
+  {
+    "name": "で言うと",
+    "description": "In, Of, According to"
+  },
+  {
+    "name": "～ずつ",
+    "description": "One at a time, Per, Each, Gradually"
+  },
+  {
+    "name": "ずっと ②",
+    "description": "By far, Way, Far...er, Far...more"
+  },
+  {
+    "name": "だらけ",
+    "description": "Completely covered in, Full of"
+  },
+  {
+    "name": "もっとも",
+    "description": "Although, But, However, For all that, Provided that"
+  },
+  {
+    "name": "再び",
+    "description": "Again, Once more, A second time"
+  },
+  {
+    "name": "み",
+    "description": "~ness, Used to indicate conditions or nature"
+  },
+  {
+    "name": "と同じくらい",
+    "description": "About the same as, About as, No less"
+  },
+  {
+    "name": "と同じで・と違って",
+    "description": "Like, Similar to, Unlike, Dissimilar to"
+  },
+  {
+    "name": "と並んで",
+    "description": "In line with, Comparable with, Along with, Just like, As … as"
+  },
+  {
+    "name": "に違いない",
+    "description": "There is no doubt that, I'm sure"
+  },
+  {
+    "name": "当たり",
+    "description": "Per~, A~, Apiece, Each"
+  },
+  {
+    "name": "に当たる",
+    "description": "Correspond to, Amounts to, Equals to, Is appropriate"
+  },
+  {
+    "name": "に限る",
+    "description": "Nothing better than, There's nothing like, Limited to"
+  },
+  {
+    "name": "とは限らない",
+    "description": "Not necessarily so, Is not always true, There is no guarantee that"
+  },
+  {
+    "name": "めったに〜ない",
+    "description": "Hardly, Rarely, Seldom"
+  },
+  {
+    "name": "割に",
+    "description": "Although, Despite, Rather...for, Unexpectedly, Comparatively, Considering"
+  },
+  {
+    "name": "Verb[volitional]とする",
+    "description": "Try to, Attempt to, To be about to"
+  },
+  {
+    "name": "Verb[volitional] + としたが",
+    "description": "Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~"
+  },
+  {
+    "name": "言うまでもない ②",
+    "description": "It goes without saying, It is needless to say, Of course, Obviously"
+  },
+  {
+    "name": "そうもない",
+    "description": "Very unlikely to, Does not seem that, Does not appear that"
+  },
+  {
+    "name": "ないことはない",
+    "description": "Is not impossible, It doesn't mean that it isn't"
+  },
+  {
+    "name": "なんか・なんて",
+    "description": "Such as, Things like, Emphasis"
+  },
+  {
+    "name": "又〜も",
+    "description": "Moreover, Additionally, And also, In addition, Furthermore, Or"
+  },
+  {
+    "name": "ついでに",
+    "description": "While you are at it, On the occasion"
+  },
+  {
+    "name": "と共に",
+    "description": "Together with, At the same time,  As well as"
+  },
+  {
+    "name": "につれて",
+    "description": "As…then, In proportion to, (Along) with"
+  },
+  {
+    "name": "直ちに",
+    "description": "At once, Immediately, As soon as"
+  },
+  {
+    "name": "たとたんに",
+    "description": "The instant or moment, As soon as, Just as"
+  },
+  {
+    "name": "おきに",
+    "description": "Repeated at intervals, Every other, Every, At intervals of"
+  },
+  {
+    "name": "たびに",
+    "description": "Each time, Every time, Whenever"
+  },
+  {
+    "name": "あるいは",
+    "description": "Or, Possibly, Maybe, Perhaps, Or possibly"
+  },
+  {
+    "name": "ながらも",
+    "description": "But, Even while, Even though, Despite, Although"
+  },
+  {
+    "name": "において・における",
+    "description": "In, On, At, Regarding, In terms of"
+  },
+  {
+    "name": "第一",
+    "description": "Start, First (point), Foremost, To begin with"
+  },
+  {
+    "name": "ますます",
+    "description": "Increasingly, More and more, Decreasingly, Less and less, Keep -ing"
+  },
+  {
+    "name": "一方だ",
+    "description": "More and more, Continue to, Keep on, -er and -er"
+  },
+  {
+    "name": "一方で",
+    "description": "On the other hand, At the same time, While"
+  },
+  {
+    "name": "遂に",
+    "description": "Finally, At last"
+  },
+  {
+    "name": "すでに",
+    "description": "Already, Too late"
+  },
+  {
+    "name": "ずに",
+    "description": "Without doing"
+  },
+  {
+    "name": "ずにはいられない",
+    "description": "Cannot help doing something, Cannot resist doing something"
+  },
+  {
+    "name": "なし",
+    "description": "Without, No"
+  },
+  {
+    "name": "考えられない",
+    "description": "Unthinkable, Inconceivable, Unimaginable, Cannot think"
+  },
+  {
+    "name": "必ずしも",
+    "description": "Not always, Not entirely, Not necessarily"
+  },
+  {
+    "name": "連用形",
+    "description": "Formal Conjunctive"
+  },
+  {
+    "name": "向き",
+    "description": "Suitable for, Facing"
+  },
+  {
+    "name": "向け",
+    "description": "Intended for, Aimed at"
+  },
+  {
+    "name": "上がる・上げる",
+    "description": "Something is finished, To finish something, Something has come to an end, To do something completely, To do something through"
+  },
+  {
+    "name": "切る",
+    "description": "To do something completely to the end, Utterly, Resolutely"
+  },
+  {
+    "name": "切れない",
+    "description": "Being unable to finish or complete"
+  },
+  {
+    "name": "きり",
+    "description": "Only, Just, Since"
+  },
+  {
+    "name": "かけ",
+    "description": "Half-, Not yet finished, About to, Begin to"
+  },
+  {
+    "name": "にかけて",
+    "description": "Over (a period), From ~ until, Through"
+  },
+  {
+    "name": "たて",
+    "description": "Freshly ~ed, Just ~ed"
+  },
+  {
+    "name": "込む ①",
+    "description": "To go into, To put into"
+  },
+  {
+    "name": "込む ②",
+    "description": "Remain, To do thoroughly, Deeply, Intensely"
+  },
+  {
+    "name": "ふりをする",
+    "description": "To pretend, To act as if"
+  },
+  {
+    "name": "できれば・できたら",
+    "description": "If possible"
+  },
+  {
+    "name": "でよければ",
+    "description": "If it is alright, If you don't mind, If you would like, If possible"
+  },
+  {
+    "name": "次第",
+    "description": "As soon as"
+  },
+  {
+    "name": "とおり",
+    "description": "In that way, Exactly, Precisely, Just as"
+  },
+  {
+    "name": "でもある",
+    "description": "Be also, It also is"
+  },
+  {
+    "name": "どうしても",
+    "description": "Regardless of, No matter what"
+  },
+  {
+    "name": "もしも～なら・もしも～でも",
+    "description": "If, Supposing"
+  },
+  {
+    "name": "同士",
+    "description": "Fellow, With each other, Mutually, Between, Among, Together, With"
+  },
+  {
+    "name": "がたい",
+    "description": "Hard to, Difficult to"
+  },
+  {
+    "name": "まさか",
+    "description": "I never dreamed, Never, No way, Don't tell me, You don't say"
+  },
+  {
+    "name": "前者は・後者は",
+    "description": "The former ~ the latter, The first ~ the second"
+  },
+  {
+    "name": "つい",
+    "description": "Accidentally, Unconsciously, Against one's better judgement"
+  },
+  {
+    "name": "せいで",
+    "description": "Because of, Due to, Blame"
+  },
+  {
+    "name": "くせに",
+    "description": "Even though, And yet, Despite"
+  },
+  {
+    "name": "がち",
+    "description": "Apt to do, Tend to do, Prone to do"
+  },
+  {
+    "name": "ぎみ",
+    "description": "Looking, Feeling a little, Touch of, Tending to, Slightly"
+  },
+  {
+    "name": "っぽい",
+    "description": "-ish, -like, Characteristic of, Typical of, Tendency to"
+  },
+  {
+    "name": "っぱなし",
+    "description": "Leaving something in a certain state, Left as is, Keep on -ing"
+  },
+  {
+    "name": "わざわざ",
+    "description": "Expressly, Especially, Go out of one's way, Take the trouble to"
+  },
+  {
+    "name": "一体",
+    "description": "(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing..."
+  },
+  {
+    "name": "折角",
+    "description": "With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion"
+  },
+  {
+    "name": "っけ",
+    "description": "What is…again?, Was it... that... ?, Did you say...?"
+  },
+  {
+    "name": "代わりに",
+    "description": "Instead of,  In place of, In exchange for"
+  },
+  {
+    "name": "に代わって",
+    "description": "In place of, On behalf of, To succeed"
+  },
+  {
+    "name": "どころか",
+    "description": "Far from, Anything but"
+  },
+  {
+    "name": "という理由で",
+    "description": "For (that) reason; on the grounds of (that), With the reasoning, Under the pretext of, Due to"
+  },
+  {
+    "name": "～は～となっている",
+    "description": "It is (has been), Have/has become, Happen to be, Has been established"
+  },
+  {
+    "name": "左右する",
+    "description": "Influence, Impact, Control"
+  }
+]

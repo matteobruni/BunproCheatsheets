@@ -1,0 +1,842 @@
+[
+  {
+    "name": "得る・得る",
+    "description": "Is able to, Can, Possible"
+  },
+  {
+    "name": "〜得ない",
+    "description": "Unable to, Cannot"
+  },
+  {
+    "name": "ざるを得ない",
+    "description": "Can't help doing, Have no choice but"
+  },
+  {
+    "name": "つもりで",
+    "description": "With the intention of doing, Instead of..., Act as if or pretend, Believing that..., Thinking that..."
+  },
+  {
+    "name": "どうせ",
+    "description": "Anyhow, At any rate, In any case, I have no doubt that, Probably"
+  },
+  {
+    "name": "せめて",
+    "description": "At least"
+  },
+  {
+    "name": "どうやら",
+    "description": "Apparently, Looks Like, Seems like"
+  },
+  {
+    "name": "よりほかない",
+    "description": "To have no choice but, No other way than, Have to"
+  },
+  {
+    "name": "一応 ①",
+    "description": "Just in case, Just to be sure"
+  },
+  {
+    "name": "確かに",
+    "description": "Surely, Certainly"
+  },
+  {
+    "name": "一応 ②",
+    "description": "more or less, for the time being, tentatively・roughly"
+  },
+  {
+    "name": "に相違ない",
+    "description": "Without a doubt, Certainly, Surely, Not mistaken"
+  },
+  {
+    "name": "万が一",
+    "description": "Just in case, In the worst-case scenario, In the unlikely event, By any chance"
+  },
+  {
+    "name": "ようがない・ようもない",
+    "description": "There's no way to, It's impossible to"
+  },
+  {
+    "name": "にほかならない",
+    "description": "Nothing but, None other than, Simply"
+  },
+  {
+    "name": "っこない",
+    "description": "There is no chance of, There is no way of, Impossible"
+  },
+  {
+    "name": "それなら",
+    "description": "Then, If that's the case"
+  },
+  {
+    "name": "ものなら①",
+    "description": "If, If one could, If something would be possible"
+  },
+  {
+    "name": "～を～に任せる",
+    "description": "Leave 〜 up to, Entrust 〜 to"
+  },
+  {
+    "name": "活かす",
+    "description": "To make use of (something), To take full advantage of, To capitalize on, To leverage (skills), Bring out (the quality of)"
+  },
+  {
+    "name": "まい",
+    "description": "Won't, Intend not to, Probably not"
+  },
+  {
+    "name": "上",
+    "description": "From the standpoint of"
+  },
+  {
+    "name": "上に",
+    "description": "As well, Besides, In addition to"
+  },
+  {
+    "name": "以上 ②",
+    "description": "Since, Now that, As long as, If"
+  },
+  {
+    "name": "以上に",
+    "description": "More than, No less than, Even more"
+  },
+  {
+    "name": "途中に・途中で",
+    "description": "On the way, Partway, In the middle of"
+  },
+  {
+    "name": "中を",
+    "description": "In, On, Into, Inside of"
+  },
+  {
+    "name": "を中心に",
+    "description": "Focused on, Centered on or around, Mainly, Most notably"
+  },
+  {
+    "name": "その上",
+    "description": "Besides, In addition, Furthermore"
+  },
+  {
+    "name": "上は",
+    "description": "Once, Since, Now that, As long as"
+  },
+  {
+    "name": "の下で",
+    "description": "Under, Under the supervision of, On the basis of"
+  },
+  {
+    "name": "後(の) Noun",
+    "description": "…left, Rest, Remaining, In, …to, …else"
+  },
+  {
+    "name": "手前",
+    "description": "Before, In front of, From one's standpoint or side"
+  },
+  {
+    "name": "を巡って",
+    "description": "Concerning, In regard to, About, (Split) over"
+  },
+  {
+    "name": "にわたって",
+    "description": "Across, Throughout, Extends, Over (a period of time or range)"
+  },
+  {
+    "name": "に沿って",
+    "description": "Along, In accordance with, In line with"
+  },
+  {
+    "name": "た末・の末",
+    "description": "After, As a conclusion of"
+  },
+  {
+    "name": "にしたがって",
+    "description": "As, Following, As then, According to, In accordance with"
+  },
+  {
+    "name": "に伴って・に伴い",
+    "description": "As, Due,  Along with, Hand-in-hand with, Resulted in, Be consequent upon"
+  },
+  {
+    "name": "につき",
+    "description": "Due to, On account of, Each or every"
+  },
+  {
+    "name": "につけ",
+    "description": "Whenever, Every time something happens"
+  },
+  {
+    "name": "にかかわる",
+    "description": "To relate to, To have to do with, Concerning, Depends on"
+  },
+  {
+    "name": "に向かって・に向けて",
+    "description": "Towards, To face, To head to"
+  },
+  {
+    "name": "が気になる",
+    "description": "To be interested in, To be concerned about"
+  },
+  {
+    "name": "に気をつける",
+    "description": "Take care, Be careful, Pay attention, Make sure, Watch out"
+  },
+  {
+    "name": "も構わず",
+    "description": "Without worrying about"
+  },
+  {
+    "name": "かねる",
+    "description": "Cannot, Be unable to, Hard to, Hesitant to"
+  },
+  {
+    "name": "かねない",
+    "description": "Might, Could be, Capable of, Possible"
+  },
+  {
+    "name": "を除いて",
+    "description": "Except, With the exception of, Unless"
+  },
+  {
+    "name": "にかかわらず",
+    "description": "Regardless of, Whether or, No matter, With or without"
+  },
+  {
+    "name": "にもかかわらず",
+    "description": "Despite, In spite of, Regardless, Nevertheless"
+  },
+  {
+    "name": "に限って",
+    "description": "Particularly when, Those who, Only when"
+  },
+  {
+    "name": "に限らず",
+    "description": "Not just, Not only… but also"
+  },
+  {
+    "name": "なお①",
+    "description": "Still, Even, Yet"
+  },
+  {
+    "name": "なお②",
+    "description": "In addition, Incidentally, Furthermore, Moreover"
+  },
+  {
+    "name": "限り",
+    "description": "As long as, While… is the case, Limited to"
+  },
+  {
+    "name": "次第だ・次第で",
+    "description": "Depending on, So"
+  },
+  {
+    "name": "～てこそ",
+    "description": "Only if, Because, By, Unless, Until"
+  },
+  {
+    "name": "を問わず",
+    "description": "Regardless of, Whether or not, No matter, With or without"
+  },
+  {
+    "name": "よりしかたがない",
+    "description": "There is no choice but, Can't be helped, Inevitable"
+  },
+  {
+    "name": "に越したことはない",
+    "description": "There is nothing better than, It is the best, Would be the best"
+  },
+  {
+    "name": "要するに",
+    "description": "To sum up, In summary, In short"
+  },
+  {
+    "name": "てからでないと",
+    "description": "(Not) unless ~ cannot, (Not) until ~ cannot"
+  },
+  {
+    "name": "なくはない",
+    "description": "It's not that…, Kind of, might, Slightly, Somewhat, In some respects"
+  },
+  {
+    "name": "ないことには～ない",
+    "description": "Unless you do something"
+  },
+  {
+    "name": "ないではいられない",
+    "description": "Cannot help doing something, Cannot resist doing something"
+  },
+  {
+    "name": "ねばならない",
+    "description": "Must, Have to, Should"
+  },
+  {
+    "name": "たまえ",
+    "description": "(Please) do!, Ask to, Beg to, (Order somebody to do something)"
+  },
+  {
+    "name": "～のうち(で)",
+    "description": "of the, among(st)"
+  },
+  {
+    "name": "つつ",
+    "description": "while, and"
+  },
+  {
+    "name": "つつ(も)",
+    "description": "even while ~ing, even though ~ing, despite ~ing, although ~ing"
+  },
+  {
+    "name": "に際して",
+    "description": "on the occasion of, at the time of"
+  },
+  {
+    "name": "際に",
+    "description": "when, at the time of, in case of, on the occasion of"
+  },
+  {
+    "name": "にあたり・にあたって",
+    "description": "when, when doing something, on the occasion, at the time"
+  },
+  {
+    "name": "を契機に",
+    "description": "lead to, as a good opportunity to, as a result of, as a trigger"
+  },
+  {
+    "name": "つつある",
+    "description": "-ing, be -ing"
+  },
+  {
+    "name": "～ところに・～ところへ",
+    "description": "at the time, when, while, timing"
+  },
+  {
+    "name": "か〜ないかのうちに",
+    "description": "right after, as soon as, just when, barely"
+  },
+  {
+    "name": "がけに",
+    "description": "on the way to, as you go"
+  },
+  {
+    "name": "ていては",
+    "description": "if one keeps doing something, when・if something is..."
+  },
+  {
+    "name": "ところだった ②",
+    "description": "was just about to do something, was in the middle of..."
+  },
+  {
+    "name": "どころではない",
+    "description": "this is not the time for…, far from, out of the question"
+  },
+  {
+    "name": "ぶりに",
+    "description": "for the first time in, haven't done for some time"
+  },
+  {
+    "name": "ては",
+    "description": "if・with, since・because"
+  },
+  {
+    "name": "ては〜ては",
+    "description": "repeating action, if・since"
+  },
+  {
+    "name": "も又",
+    "description": "too, also (with more emphasis than も alone), again"
+  },
+  {
+    "name": "結果・の結果",
+    "description": "as a result of"
+  },
+  {
+    "name": "以来",
+    "description": "since, henceforth"
+  },
+  {
+    "name": "に先立ち",
+    "description": "before, prior to, in preference over"
+  },
+  {
+    "name": "はたして",
+    "description": "wonder if/how ~ really?, wonder if/how ~ actually?, sure enough, as expected"
+  },
+  {
+    "name": "甲斐がある",
+    "description": "to be (not) worth, to (not) pay off"
+  },
+  {
+    "name": "やがて",
+    "description": "Before long, All too soon, In the end, Eventually"
+  },
+  {
+    "name": "したがって",
+    "description": "therefore・thus, as a result"
+  },
+  {
+    "name": "あげく",
+    "description": "after, in the end, after all, eventually"
+  },
+  {
+    "name": "きっかけ",
+    "description": "lead to, because of, as a start/trigger of, an opportunity"
+  },
+  {
+    "name": "にかけては",
+    "description": "when it comes to, regarding, concerning"
+  },
+  {
+    "name": "とっくに",
+    "description": "already, a long time ago, long ago"
+  },
+  {
+    "name": "未だに",
+    "description": "still, not yet, even now"
+  },
+  {
+    "name": "をもとに",
+    "description": "based on, from, according to"
+  },
+  {
+    "name": "からには",
+    "description": "as long as・since, given"
+  },
+  {
+    "name": "いつの間にか",
+    "description": "suddenly, unnoticed, without noticing, too soon"
+  },
+  {
+    "name": "一旦",
+    "description": "once …, if … for a short time, temporarily (stop), for now/the time being"
+  },
+  {
+    "name": "はもとより",
+    "description": "not only... but also, let alone, of course,"
+  },
+  {
+    "name": "そうにない",
+    "description": "unlikely to, showing no signs of"
+  },
+  {
+    "name": "に反して",
+    "description": "go against, contrary to"
+  },
+  {
+    "name": "逆に",
+    "description": "on the contrary"
+  },
+  {
+    "name": "反面",
+    "description": "while, on the other hand, although, however, on the flip side"
+  },
+  {
+    "name": "抜く",
+    "description": "all~, completely, see through, overcome, to the bitter end"
+  },
+  {
+    "name": "抜きで",
+    "description": "without, unless"
+  },
+  {
+    "name": "いよいよ",
+    "description": "at last, finally, more and more"
+  },
+  {
+    "name": "ずに済む",
+    "description": "get by without doing something, to get away with"
+  },
+  {
+    "name": "に応じて",
+    "description": "depending/based on, according to, in response to, suitable for/to,"
+  },
+  {
+    "name": "を通じて・を通して",
+    "description": "through, via, throughout"
+  },
+  {
+    "name": "に応えて",
+    "description": "in response to, meet"
+  },
+  {
+    "name": "それとも",
+    "description": "or・or else, rather"
+  },
+  {
+    "name": "にしたら",
+    "description": "from the point of view of"
+  },
+  {
+    "name": "にしても～にしても",
+    "description": "regardless of whether"
+  },
+  {
+    "name": "としては",
+    "description": "as a, for a, as for"
+  },
+  {
+    "name": "としても",
+    "description": "even if (we assume), assuming,  also as"
+  },
+  {
+    "name": "それにしても",
+    "description": "nevertheless, even so"
+  },
+  {
+    "name": "ぬ",
+    "description": "classical negative, classical Verb[ない]"
+  },
+  {
+    "name": "ことなく",
+    "description": "without ~ing"
+  },
+  {
+    "name": "にて",
+    "description": "in・at, with・using・by"
+  },
+  {
+    "name": "には",
+    "description": "in order to, in regard to, for"
+  },
+  {
+    "name": "思うように",
+    "description": "as one hopes, as desired, as one thought"
+  },
+  {
+    "name": "かと思ったら・かと思うと",
+    "description": "then again, just when I thought, no sooner than"
+  },
+  {
+    "name": "というものでもない",
+    "description": "there is no guarantee that…, not necessarily"
+  },
+  {
+    "name": "と考えられる",
+    "description": "can be considered as, is thought to be, one can think that, it is conceivable that"
+  },
+  {
+    "name": "という点から考えると",
+    "description": "from the standpoint of, from the perspective of, from the viewpoint of, think in terms of, viewed from the angle of"
+  },
+  {
+    "name": "ということは",
+    "description": "that means, that is to say"
+  },
+  {
+    "name": "ふうに",
+    "description": "~ way, in a way that suggests, like ~"
+  },
+  {
+    "name": "という風に",
+    "description": "as if to say, as if to suggest that, in such a way that, things like"
+  },
+  {
+    "name": "ものの",
+    "description": "although, but, even though"
+  },
+  {
+    "name": "というものだ",
+    "description": "Speaker's impression, criticism, or conclusion"
+  },
+  {
+    "name": "から見ると",
+    "description": "from the point of view of, by the look of"
+  },
+  {
+    "name": "ところを見ると",
+    "description": "judging from, seeing that"
+  },
+  {
+    "name": "からすると・からすれば",
+    "description": "judging from, considering"
+  },
+  {
+    "name": "からして",
+    "description": "even..., judging from, based on"
+  },
+  {
+    "name": "からといって",
+    "description": "just because"
+  },
+  {
+    "name": "そういえば",
+    "description": "speaking of which, by the way, come to think of it"
+  },
+  {
+    "name": "お～願う",
+    "description": "please, could you please"
+  },
+  {
+    "name": "とか",
+    "description": "I heard that… something like, he/she/it said ... or something"
+  },
+  {
+    "name": "〜ようではないか",
+    "description": "let's do something, why don't we"
+  },
+  {
+    "name": "かのようだ",
+    "description": "as if, just like"
+  },
+  {
+    "name": "のではないだろうか",
+    "description": "I think ... isn't it?, It might be that..., don't you agree?"
+  },
+  {
+    "name": "て当然だ",
+    "description": "natural, as a matter of course"
+  },
+  {
+    "name": "のも当然だ",
+    "description": "it is only natural that, it is no wonder"
+  },
+  {
+    "name": "たった(の)",
+    "description": "only, just, no more than"
+  },
+  {
+    "name": "恐れがある",
+    "description": "there is a risk/fear that, be in danger of, possibility of"
+  },
+  {
+    "name": "おそらく",
+    "description": "probably, perhaps, (most) likely, (I) fear that"
+  },
+  {
+    "name": "ものか",
+    "description": "Definitely not, absolutely not, impossible, do you really think~?"
+  },
+  {
+    "name": "おまけに",
+    "description": "in addition, on top of that, what is more, to make matters worse"
+  },
+  {
+    "name": "に決まっている",
+    "description": "surely, bound to, certainly, be decided"
+  },
+  {
+    "name": "ことになっている",
+    "description": "to be expected to, to be scheduled to"
+  },
+  {
+    "name": "気",
+    "description": "feel like ~, spirit"
+  },
+  {
+    "name": "げ",
+    "description": "seemingly, giving appearance of, [expresses emotions or feelings]"
+  },
+  {
+    "name": "ことだから",
+    "description": "it is exactly because"
+  },
+  {
+    "name": "ものだから",
+    "description": "because, the reason is"
+  },
+  {
+    "name": "ものですから・もので",
+    "description": "because, my excuse is, my explanation is"
+  },
+  {
+    "name": "ものがある",
+    "description": "strong judgement, there is something, feel strongly that"
+  },
+  {
+    "name": "傾向がある",
+    "description": "tendency, trend, inclination"
+  },
+  {
+    "name": "てしょうがない",
+    "description": "extremely, very・really, it can't be helped"
+  },
+  {
+    "name": "だけましだ",
+    "description": "at least, it's better than..., one should feel grateful for"
+  },
+  {
+    "name": "幸い・幸いなことに",
+    "description": "luckily, fortunately"
+  },
+  {
+    "name": "ようでは・ようじゃ",
+    "description": "if, if it is true that"
+  },
+  {
+    "name": "さすが",
+    "description": "as one would expect, only natural, that is just like..., even"
+  },
+  {
+    "name": "ことは〜が",
+    "description": "It is true...but, although, but"
+  },
+  {
+    "name": "更に",
+    "description": "even more/further, again, more and more"
+  },
+  {
+    "name": "精々",
+    "description": "(at) most , (at) best, no more than, barely"
+  },
+  {
+    "name": "僅かに",
+    "description": "only, slightly・a little, barely・merely"
+  },
+  {
+    "name": "および",
+    "description": "and, as well as"
+  },
+  {
+    "name": "たちまち",
+    "description": "immediately, quickly, suddenly, in a moment/flash"
+  },
+  {
+    "name": "いきなり",
+    "description": "for no reason, suddenly, all of a sudden"
+  },
+  {
+    "name": "といった",
+    "description": "such as, like, so much as"
+  },
+  {
+    "name": "を込めて",
+    "description": "full of, filled with, with ～"
+  },
+  {
+    "name": "に加えて",
+    "description": "not only...but also, in addition, not to mention"
+  },
+  {
+    "name": "何から何まで",
+    "description": "everything and anything, from A to Z, from head to toe, everything"
+  },
+  {
+    "name": "は別として",
+    "description": "apart from, (setting) aside, whether or, except for, save for"
+  },
+  {
+    "name": "だけに",
+    "description": "as might be expected, because, all the more because, it's only natural"
+  },
+  {
+    "name": "だけは",
+    "description": "to do all that one can, as much/many ~ as one could"
+  },
+  {
+    "name": "だけあって",
+    "description": "is only natural, …being the case, because, as might be expected"
+  },
+  {
+    "name": "何より",
+    "description": "be glad, be relieved, most・best, above all else, more than anything"
+  },
+  {
+    "name": "何といっても",
+    "description": "By any account, all the same, no doubt"
+  },
+  {
+    "name": "か何か",
+    "description": "or something, or something like that"
+  },
+  {
+    "name": "てならない",
+    "description": "very, extremely, can't help but do"
+  },
+  {
+    "name": "のみならず",
+    "description": "not only...but, not just...but, what is more"
+  },
+  {
+    "name": "それなのに",
+    "description": "and yet, despite this"
+  },
+  {
+    "name": "いわゆる",
+    "description": "what is called, so-called, generally known"
+  },
+  {
+    "name": "にすぎない",
+    "description": "no more than, just, merely"
+  },
+  {
+    "name": "も～ば～も",
+    "description": "…and…, both ... and ...,... and ... as well"
+  },
+  {
+    "name": "でしかない",
+    "description": "merely, nothing but, no more than"
+  },
+  {
+    "name": "てたまらない",
+    "description": "can't help but want to, very, extremely"
+  },
+  {
+    "name": "にせよ・にしろ",
+    "description": "even if, even though, no matter, whether… or"
+  },
+  {
+    "name": "何しろ",
+    "description": "no wonder, after all, in fact, because, at any rate"
+  },
+  {
+    "name": "にしろ～にしろ",
+    "description": "whether… or"
+  },
+  {
+    "name": "はともかく",
+    "description": "setting aside, apart from"
+  },
+  {
+    "name": "やら～やら",
+    "description": "whether or, things like, and … so on"
+  },
+  {
+    "name": "しかしながら",
+    "description": "however, nevertheless, but"
+  },
+  {
+    "name": "ことにはならない",
+    "description": "just because… doesn't mean…"
+  },
+  {
+    "name": "だけのことはある",
+    "description": "no wonder, not surprising that, as expected"
+  },
+  {
+    "name": "てはならない",
+    "description": "must not, cannot, should not"
+  },
+  {
+    "name": "陸に～ない",
+    "description": "not well/properly, not much/enough, barely・hardly"
+  },
+  {
+    "name": "てはいられない",
+    "description": "can't afford to, unable to"
+  },
+  {
+    "name": "しかも",
+    "description": "moreover, furthermore"
+  },
+  {
+    "name": "てでも",
+    "description": "even if I have to, by all/any means, no matter what"
+  },
+  {
+    "name": "とも",
+    "description": "even if, no matter"
+  },
+  {
+    "name": "ないわけにはいかない",
+    "description": "Can't not, No way to avoid"
+  },
+  {
+    "name": "というわけではない",
+    "description": "it is not that, it doesn't mean that, it is not always the case"
+  },
+  {
+    "name": "のももっともだ",
+    "description": "may well, have/has good reason for,no wonder, … is only natural"
+  },
+  {
+    "name": "たって",
+    "description": "even if, even though, no matter how"
+  }
+]
