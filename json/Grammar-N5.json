@@ -1,0 +1,506 @@
+[
+  {
+    "name": "だ",
+    "description": "To be, Is"
+  },
+  {
+    "name": "です",
+    "description": "To be, Is"
+  },
+  {
+    "name": "は",
+    "description": "As for... (Highlights sentence topic)"
+  },
+  {
+    "name": "も",
+    "description": "Also, Too, As well, Even, Either, Neither"
+  },
+  {
+    "name": "これ",
+    "description": "This"
+  },
+  {
+    "name": "それ",
+    "description": "That"
+  },
+  {
+    "name": "あれ",
+    "description": "That (over there)"
+  },
+  {
+    "name": "いい",
+    "description": "い-Adjective meaning 'good'"
+  },
+  {
+    "name": "の",
+    "description": "Indicates possession"
+  },
+  {
+    "name": "い-Adjectives",
+    "description": "Adjectives ending in い"
+  },
+  {
+    "name": "な-Adjectives",
+    "description": "Adjectives that are also nouns"
+  },
+  {
+    "name": "か",
+    "description": "Question marking particle"
+  },
+  {
+    "name": "が",
+    "description": "Subject marking particle, Identification particle"
+  },
+  {
+    "name": "よ",
+    "description": "Emphasis (Sentence ending particle)"
+  },
+  {
+    "name": "ね",
+    "description": "Isn't it?, Right? (Sentence ending particle)"
+  },
+  {
+    "name": "る-Verb (Dictionary)",
+    "description": "る + ます (Ichidan Verbs)"
+  },
+  {
+    "name": "う-Verb (Dictionary)",
+    "description": "う + ます (Godan Verbs)"
+  },
+  {
+    "name": "を",
+    "description": "Object marking particle"
+  },
+  {
+    "name": "る-Verb (Negative)",
+    "description": "Will/Does/Do (not)"
+  },
+  {
+    "name": "う-Verb (Negative)",
+    "description": "Will/Does/Do (not)"
+  },
+  {
+    "name": "と",
+    "description": "And"
+  },
+  {
+    "name": "ここ",
+    "description": "Here, This place"
+  },
+  {
+    "name": "そこ",
+    "description": "There, That place"
+  },
+  {
+    "name": "あそこ",
+    "description": "Over there"
+  },
+  {
+    "name": "で",
+    "description": "At, In"
+  },
+  {
+    "name": "に",
+    "description": "In, At, To, For, On"
+  },
+  {
+    "name": "か",
+    "description": "Or"
+  },
+  {
+    "name": "と",
+    "description": "With"
+  },
+  {
+    "name": "でしょう",
+    "description": "Right?, Probably, Isn't it?"
+  },
+  {
+    "name": "だろう",
+    "description": "Right?, Probably, Isn't it?"
+  },
+  {
+    "name": "がある",
+    "description": "To be, There is"
+  },
+  {
+    "name": "がいる",
+    "description": "To be, There is,  To remain (in a state)"
+  },
+  {
+    "name": "この",
+    "description": "This"
+  },
+  {
+    "name": "その",
+    "description": "That"
+  },
+  {
+    "name": "あの",
+    "description": "That (over there)"
+  },
+  {
+    "name": "～んです・のです",
+    "description": "Explanatory, Emphasis, The fact is"
+  },
+  {
+    "name": "い-Adjective (Past)",
+    "description": "Was, Were (Past tense)"
+  },
+  {
+    "name": "の",
+    "description": "Verb nominalizer, The one who..., That which..."
+  },
+  {
+    "name": "い-Adjective + Noun",
+    "description": "Describing a noun"
+  },
+  {
+    "name": "な-Adjective + Noun",
+    "description": "Describing a noun"
+  },
+  {
+    "name": "へいく",
+    "description": "To go to, To head toward"
+  },
+  {
+    "name": "する",
+    "description": "To do, To make into"
+  },
+  {
+    "name": "くる",
+    "description": "To come"
+  },
+  {
+    "name": "る-Verb (Past)",
+    "description": "る - Verbs (Past tense)"
+  },
+  {
+    "name": "う-Verb (Past)",
+    "description": "う - Verbs (Past tense)"
+  },
+  {
+    "name": "好き",
+    "description": "Like, Fond of"
+  },
+  {
+    "name": "きらい",
+    "description": "Dislike, Not fond of"
+  },
+  {
+    "name": "のがすき",
+    "description": "Like doing, Love doing"
+  },
+  {
+    "name": "がある + Noun",
+    "description": "Noun (B) that has Noun (A), Noun (B) with Noun (A)"
+  },
+  {
+    "name": "い-Adjectives くない",
+    "description": "Not (Adjective)"
+  },
+  {
+    "name": "で",
+    "description": "With, By (using)"
+  },
+  {
+    "name": "ので",
+    "description": "Because, So, Since, The reason being"
+  },
+  {
+    "name": "から",
+    "description": "Because, Since"
+  },
+  {
+    "name": "から",
+    "description": "From"
+  },
+  {
+    "name": "けど・だけど",
+    "description": "But, However"
+  },
+  {
+    "name": "が",
+    "description": "But, However"
+  },
+  {
+    "name": "る-Verb (Negative-Past)",
+    "description": "る - Verbs (Negative-past tense)"
+  },
+  {
+    "name": "う-Verb (Negative-Past)",
+    "description": "う - Verbs (Negative-past tense)"
+  },
+  {
+    "name": "Verb + て",
+    "description": "And, Then (Linking events)"
+  },
+  {
+    "name": "ている①",
+    "description": "Is, Am, Are (~ing)"
+  },
+  {
+    "name": "へ",
+    "description": "To, Toward"
+  },
+  {
+    "name": "Verb + にいく",
+    "description": "To go ~, To go in order to ~"
+  },
+  {
+    "name": "誰",
+    "description": "Who"
+  },
+  {
+    "name": "い-Adjective (Predicate)",
+    "description": "い-Adjective (Predicate)"
+  },
+  {
+    "name": "な-Adjective だ",
+    "description": "な-Adjective (Predicate)"
+  },
+  {
+    "name": "だった・でした",
+    "description": "Was, Were (Past tense)"
+  },
+  {
+    "name": "じゃない",
+    "description": "Is not, Isn't"
+  },
+  {
+    "name": "じゃなかった",
+    "description": "Was not, Wasn't"
+  },
+  {
+    "name": "い-Adjective くなかった",
+    "description": "Was not, Wasn't (Adjective)"
+  },
+  {
+    "name": "と",
+    "description": "Quotation"
+  },
+  {
+    "name": "って",
+    "description": "Casual quotation"
+  },
+  {
+    "name": "Verbs (Non-past)",
+    "description": "(Non-past)"
+  },
+  {
+    "name": "Verb［た・ている］+ Noun",
+    "description": "Verb modified noun, Relative clause"
+  },
+  {
+    "name": "の",
+    "description": "Possessive use (Noun omission)"
+  },
+  {
+    "name": "な",
+    "description": "Do not, Don't (Prohibitive)"
+  },
+  {
+    "name": "だけ",
+    "description": "Only, Just"
+  },
+  {
+    "name": "どれ",
+    "description": "Which (of three or more)"
+  },
+  {
+    "name": "どこ",
+    "description": "Where"
+  },
+  {
+    "name": "どの",
+    "description": "Which (of three or more), What (kind)"
+  },
+  {
+    "name": "ている②",
+    "description": "State of being, Has (have) done"
+  },
+  {
+    "name": "てから",
+    "description": "Once...is done, Once...happens, After doing"
+  },
+  {
+    "name": "Verb + て+ B",
+    "description": "And, And then, After that (sequence)"
+  },
+  {
+    "name": "もう",
+    "description": "Already, Anymore"
+  },
+  {
+    "name": "まだ",
+    "description": "Still, Not yet"
+  },
+  {
+    "name": "まだ～ていません",
+    "description": "Still haven't done (something)"
+  },
+  {
+    "name": "てもいい",
+    "description": "It is alright/fine/okay even if, Can/may, ~ is also okay"
+  },
+  {
+    "name": "たい",
+    "description": "Want to do"
+  },
+  {
+    "name": "たり～たりする",
+    "description": "Things like ~ and ~"
+  },
+  {
+    "name": "けっこう",
+    "description": "Quite, A lot, Fairly, Rather"
+  },
+  {
+    "name": "たくさん",
+    "description": "Many, A lot of, Plenty, Enough"
+  },
+  {
+    "name": "まえに",
+    "description": "Before, In front of"
+  },
+  {
+    "name": "くらい ①",
+    "description": "About, Approximately"
+  },
+  {
+    "name": "Noun + まで",
+    "description": "Until, Till,  To (but no further than)"
+  },
+  {
+    "name": "Verb + まで",
+    "description": "Until (something) happens"
+  },
+  {
+    "name": "すぎる",
+    "description": "Too much, Very"
+  },
+  {
+    "name": "にする",
+    "description": "To decide on, To choose, To make something into, To view something as"
+  },
+  {
+    "name": "～になる・～くなる",
+    "description": "To become (Adjective)"
+  },
+  {
+    "name": "のなかで～がいちばん～",
+    "description": "Out of ~, ~ is the best/most ~"
+  },
+  {
+    "name": "より～のほうが",
+    "description": "To be more ~ than ~"
+  },
+  {
+    "name": "なにか・なにも",
+    "description": "Something, Nothing, Anything, Not anything, Some kind of, Not any kind of"
+  },
+  {
+    "name": "誰か・どこか・誰も・どこも",
+    "description": "Someone, Somewhere, Not anyone, Not anywhere"
+  },
+  {
+    "name": "ましょう",
+    "description": "Let's, Shall we (Polite volitional)"
+  },
+  {
+    "name": "～ましょうか",
+    "description": "Shall we, Shall I"
+  },
+  {
+    "name": "ませんか",
+    "description": "Won't you, Would you not, Why don't we"
+  },
+  {
+    "name": "Verb + てもいい",
+    "description": "It's okay to, It's alright to, Can/may"
+  },
+  {
+    "name": "てください",
+    "description": "Please do (Polite request)"
+  },
+  {
+    "name": "ないでください",
+    "description": "Please don't (Polite request)"
+  },
+  {
+    "name": "てはいけない",
+    "description": "Must not, May not"
+  },
+  {
+    "name": "なくてはいけない",
+    "description": "Must do, Have to do"
+  },
+  {
+    "name": "なくてはならない",
+    "description": "Must do, Have to do"
+  },
+  {
+    "name": "たほうがいい",
+    "description": "It'd be better to, Should do"
+  },
+  {
+    "name": "ないほうがいい",
+    "description": "It'd be better not to, Shouldn't do"
+  },
+  {
+    "name": "なくちゃ・なきゃ",
+    "description": "Must do, Have to do"
+  },
+  {
+    "name": "や",
+    "description": "Things like, And the like"
+  },
+  {
+    "name": "たことがある",
+    "description": "Have done before"
+  },
+  {
+    "name": "ている③",
+    "description": "Has/have done, Is ~ing (Repetition)"
+  },
+  {
+    "name": "Adjective + て・Noun + で",
+    "description": "And... (Conjunctive)"
+  },
+  {
+    "name": "Adjective + て + B",
+    "description": "And..., Both and (Conjunctive)"
+  },
+  {
+    "name": "のがへた",
+    "description": "To be bad at, Poor at, Unskillful"
+  },
+  {
+    "name": "のがじょうず",
+    "description": "To be good at, Proficient"
+  },
+  {
+    "name": "Adjective + の(は)",
+    "description": "The 'one' that... (Indefinite pronoun, Adjective nominalization)"
+  },
+  {
+    "name": "あげる",
+    "description": "To give (away), To present, To provide"
+  },
+  {
+    "name": "くれる",
+    "description": "To give (me), To be given"
+  },
+  {
+    "name": "もらう",
+    "description": "To receive, To get, To obtain"
+  },
+  {
+    "name": "けれども",
+    "description": "But, Although"
+  },
+  {
+    "name": "つもりだ",
+    "description": "To plan to, To intend to"
+  }
+]

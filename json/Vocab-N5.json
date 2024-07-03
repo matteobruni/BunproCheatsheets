@@ -1,0 +1,4402 @@
+[
+  {
+    "name": "丸",
+    "description": "circle (sometimes used for zero)"
+  },
+  {
+    "name": "一号車",
+    "description": "Car No. 1"
+  },
+  {
+    "name": "Lサイズ",
+    "description": "Large size"
+  },
+  {
+    "name": "Tシャツ",
+    "description": "T-shirt, tee shirt"
+  },
+  {
+    "name": "ばつ",
+    "description": "x (mark), cross"
+  },
+  {
+    "name": "Yシャツ",
+    "description": "shirt, business shirt, dress shirt"
+  },
+  {
+    "name": "アイスクリーム",
+    "description": "ice cream, icecream"
+  },
+  {
+    "name": "アウトドア",
+    "description": "outdoor, al fresco"
+  },
+  {
+    "name": "あのー",
+    "description": "say, well, um, er"
+  },
+  {
+    "name": "アパート",
+    "description": "apartment building, apartment block, apartment house"
+  },
+  {
+    "name": "アボカド",
+    "description": "avocado (Persea americana)"
+  },
+  {
+    "name": "アメリカ",
+    "description": "America"
+  },
+  {
+    "name": "アルバイト",
+    "description": "part-time job, side job"
+  },
+  {
+    "name": "アレルギー",
+    "description": "allergy"
+  },
+  {
+    "name": "アンケート",
+    "description": "questionnaire, survey"
+  },
+  {
+    "name": "いい",
+    "description": "good, excellent, fine, nice, pleasant, agreeable"
+  },
+  {
+    "name": "いい事",
+    "description": "good thing, nice thing"
+  },
+  {
+    "name": "いい子",
+    "description": "good boy, good girl"
+  },
+  {
+    "name": "イギリス",
+    "description": "United Kingdom, Britain, Great Britain"
+  },
+  {
+    "name": "イタリア",
+    "description": "Italy"
+  },
+  {
+    "name": "いつ",
+    "description": "when, at what time, how soon"
+  },
+  {
+    "name": "いつも",
+    "description": "always, all the time, at all times"
+  },
+  {
+    "name": "いらっしゃいませ",
+    "description": "welcome"
+  },
+  {
+    "name": "インド",
+    "description": "India"
+  },
+  {
+    "name": "インフルエンザ",
+    "description": "influenza, flu"
+  },
+  {
+    "name": "ううん",
+    "description": "no, um, er, well"
+  },
+  {
+    "name": "うん",
+    "description": "yes, yeah"
+  },
+  {
+    "name": "エアコン",
+    "description": "air con, air conditioner, air conditioning"
+  },
+  {
+    "name": "ええ",
+    "description": "yes, that is correct, right"
+  },
+  {
+    "name": "エジプト",
+    "description": "Egypt"
+  },
+  {
+    "name": "エレベーター",
+    "description": "elevator, lift"
+  },
+  {
+    "name": "オーストラリア",
+    "description": "Australia"
+  },
+  {
+    "name": "オレンジ",
+    "description": "orange (fruit, colour)"
+  },
+  {
+    "name": "お休み",
+    "description": "holiday, day off, absence"
+  },
+  {
+    "name": "お元気で",
+    "description": "take care"
+  },
+  {
+    "name": "お兄さん",
+    "description": "older brother, elder brother"
+  },
+  {
+    "name": "お土産",
+    "description": "local specialty or souvenir bought as a gift while travelling"
+  },
+  {
+    "name": "お地蔵さん",
+    "description": "Jizo (esp. statue), Kshitigarbha, Ksitigarbha"
+  },
+  {
+    "name": "お大事に",
+    "description": "take care of yourself, get well soon, God bless you"
+  },
+  {
+    "name": "お姉さん",
+    "description": "elder sister"
+  },
+  {
+    "name": "お寺",
+    "description": "temple"
+  },
+  {
+    "name": "お巡りさん",
+    "description": "police officer"
+  },
+  {
+    "name": "お帰りなさい",
+    "description": "welcome home"
+  },
+  {
+    "name": "お弁当",
+    "description": "bento (Japanese box lunch)"
+  },
+  {
+    "name": "お手洗い",
+    "description": "toilet, restroom, lavatory, bathroom"
+  },
+  {
+    "name": "おはよう",
+    "description": "good morning"
+  },
+  {
+    "name": "おはようございます",
+    "description": "good morning"
+  },
+  {
+    "name": "お正月",
+    "description": "New Year (esp. first three days)"
+  },
+  {
+    "name": "お母さん",
+    "description": "mother"
+  },
+  {
+    "name": "お父さん",
+    "description": "father, dad, papa, pa, pop, daddy, dada"
+  },
+  {
+    "name": "お皿",
+    "description": "plate, dish"
+  },
+  {
+    "name": "お礼",
+    "description": "thanks, gratitude"
+  },
+  {
+    "name": "お祖母さん",
+    "description": "grandmother"
+  },
+  {
+    "name": "お祖父さん",
+    "description": "grandfather"
+  },
+  {
+    "name": "お祭り",
+    "description": "festival, feast, carnival"
+  },
+  {
+    "name": "お腹",
+    "description": "stomach"
+  },
+  {
+    "name": "お腹が空く",
+    "description": "to become hungry, to get an empty stomach"
+  },
+  {
+    "name": "お茶",
+    "description": "tea (usu. green)"
+  },
+  {
+    "name": "お菓子",
+    "description": "confections, sweets, candy"
+  },
+  {
+    "name": "お返事",
+    "description": "reply, answer, response"
+  },
+  {
+    "name": "お酒",
+    "description": "alcohol, sake"
+  },
+  {
+    "name": "お金",
+    "description": "money"
+  },
+  {
+    "name": "お金持ち",
+    "description": "rich person"
+  },
+  {
+    "name": "お願いします",
+    "description": "please"
+  },
+  {
+    "name": "お風呂",
+    "description": "bath"
+  },
+  {
+    "name": "お風呂に入る",
+    "description": "to take a bath, to have a bath"
+  },
+  {
+    "name": "カーテン",
+    "description": "curtain, curtains"
+  },
+  {
+    "name": "カナダ",
+    "description": "Canada"
+  },
+  {
+    "name": "カフェ",
+    "description": "café, coffeehouse"
+  },
+  {
+    "name": "カメラ",
+    "description": "camera"
+  },
+  {
+    "name": "カラオケ",
+    "description": "karaoke"
+  },
+  {
+    "name": "カレー",
+    "description": "curry"
+  },
+  {
+    "name": "カレンダー",
+    "description": "calendar"
+  },
+  {
+    "name": "キャベツ",
+    "description": "cabbage (Brassica oleracea)"
+  },
+  {
+    "name": "キャンプ",
+    "description": "camp"
+  },
+  {
+    "name": "くしゃみ",
+    "description": "sneeze"
+  },
+  {
+    "name": "くらい",
+    "description": "approximately, about, around, or so"
+  },
+  {
+    "name": "クラス",
+    "description": "class"
+  },
+  {
+    "name": "グラム",
+    "description": "gram, gramme"
+  },
+  {
+    "name": "グリーン",
+    "description": "green (colour)"
+  },
+  {
+    "name": "グレー",
+    "description": "grey (gray)"
+  },
+  {
+    "name": "ケーキ",
+    "description": "cake"
+  },
+  {
+    "name": "ゲーム",
+    "description": "game"
+  },
+  {
+    "name": "ヶ月",
+    "description": "months (period of)"
+  },
+  {
+    "name": "コーチ",
+    "description": "coach"
+  },
+  {
+    "name": "コーヒー",
+    "description": "coffee"
+  },
+  {
+    "name": "ゴールド",
+    "description": "gold"
+  },
+  {
+    "name": "ここ",
+    "description": "here, this place"
+  },
+  {
+    "name": "こちら",
+    "description": "this way (direction close to the speaker or towards the speaker), this direction"
+  },
+  {
+    "name": "コップ",
+    "description": "glass (i.e. drinking vessel), tumbler"
+  },
+  {
+    "name": "この",
+    "description": "this"
+  },
+  {
+    "name": "この間",
+    "description": "the other day, lately, recently, during this period"
+  },
+  {
+    "name": "この頃",
+    "description": "these days, nowadays, now, at present, recently, lately"
+  },
+  {
+    "name": "コピー",
+    "description": "copy, photocopy"
+  },
+  {
+    "name": "これ",
+    "description": "this, this one"
+  },
+  {
+    "name": "これから",
+    "description": "from now on, after this, in the future, in future"
+  },
+  {
+    "name": "コレクション",
+    "description": "collection"
+  },
+  {
+    "name": "ゴロゴロ",
+    "description": "thundering, purring, grumbling (e.g. stomach)"
+  },
+  {
+    "name": "コンサート",
+    "description": "concert"
+  },
+  {
+    "name": "コンセント",
+    "description": "electrical outlet, wall socket, power plug"
+  },
+  {
+    "name": "こんな",
+    "description": "such (about something or someone close to the speaker (including the speaker), or about ideas expressed by the speaker), like this"
+  },
+  {
+    "name": "コンビニ",
+    "description": "convenience store"
+  },
+  {
+    "name": "コンピューター",
+    "description": "computer"
+  },
+  {
+    "name": "ご飯",
+    "description": "cooked rice"
+  },
+  {
+    "name": "ご馳走",
+    "description": "feast, treating (someone)"
+  },
+  {
+    "name": "ご馳走様",
+    "description": "thank you (for the meal), that was a delicious meal"
+  },
+  {
+    "name": "サークル",
+    "description": "group with a common interest (e.g. students), club (e.g. company sports club), circle"
+  },
+  {
+    "name": "サーフィン",
+    "description": "surfing"
+  },
+  {
+    "name": "さあ",
+    "description": "come, come now, come along, go on, hurry up"
+  },
+  {
+    "name": "サッカー",
+    "description": "soccer"
+  },
+  {
+    "name": "サボる",
+    "description": "to be truant, to slack off, to play hooky, to skip school, to cut class, to skip out"
+  },
+  {
+    "name": "サラダ",
+    "description": "salad"
+  },
+  {
+    "name": "さん",
+    "description": "Mr., Mrs., Miss, Ms., -san"
+  },
+  {
+    "name": "シェフ",
+    "description": "chef"
+  },
+  {
+    "name": "ジャーナリスト",
+    "description": "journalist"
+  },
+  {
+    "name": "じゃあ",
+    "description": "then, well, so, well then"
+  },
+  {
+    "name": "シャツ",
+    "description": "shirt (underwear), undershirt, singlet"
+  },
+  {
+    "name": "シャワー",
+    "description": "shower"
+  },
+  {
+    "name": "シャワーを浴びる",
+    "description": "to take a shower"
+  },
+  {
+    "name": "ジャンル",
+    "description": "genre"
+  },
+  {
+    "name": "ジュース",
+    "description": "juice"
+  },
+  {
+    "name": "シリーズ",
+    "description": "series"
+  },
+  {
+    "name": "シルバー",
+    "description": "silver"
+  },
+  {
+    "name": "スーツ",
+    "description": "suit"
+  },
+  {
+    "name": "スーパー",
+    "description": "supermarket"
+  },
+  {
+    "name": "スイカ",
+    "description": "watermelon (Citrullus lanatus)"
+  },
+  {
+    "name": "スイッチ",
+    "description": "switch"
+  },
+  {
+    "name": "スカート",
+    "description": "skirt"
+  },
+  {
+    "name": "スキー",
+    "description": "skiing"
+  },
+  {
+    "name": "ステーキ",
+    "description": "steak"
+  },
+  {
+    "name": "ストーブ",
+    "description": "(room) heater, stove"
+  },
+  {
+    "name": "ストレス",
+    "description": "stress"
+  },
+  {
+    "name": "スプーン",
+    "description": "spoon"
+  },
+  {
+    "name": "スポーツ",
+    "description": "sport, sports"
+  },
+  {
+    "name": "ズボン",
+    "description": "trousers, pants"
+  },
+  {
+    "name": "スマホ",
+    "description": "smartphone, smart phone"
+  },
+  {
+    "name": "すみません",
+    "description": "excuse me, pardon me, I'm sorry, I beg your pardon"
+  },
+  {
+    "name": "する",
+    "description": "to do, to carry out, to perform"
+  },
+  {
+    "name": "セーター",
+    "description": "sweater, jumper"
+  },
+  {
+    "name": "咳",
+    "description": "cough, coughing, tussis"
+  },
+  {
+    "name": "然う",
+    "description": "in that way, thus, such"
+  },
+  {
+    "name": "そうです",
+    "description": "that is so, that is right, it looks to me, that's my impression"
+  },
+  {
+    "name": "そうですか",
+    "description": "I see, is that so?"
+  },
+  {
+    "name": "そうですね",
+    "description": "that's so, isn't it"
+  },
+  {
+    "name": "そこ",
+    "description": "there (place relatively near listener)"
+  },
+  {
+    "name": "そして",
+    "description": "and, and then, thus, and now, and finally"
+  },
+  {
+    "name": "そちら",
+    "description": "that way (direction distant from the speaker, close to the listener)"
+  },
+  {
+    "name": "その",
+    "description": "that, the"
+  },
+  {
+    "name": "それ",
+    "description": "that, it"
+  },
+  {
+    "name": "それから",
+    "description": "and then, after that"
+  },
+  {
+    "name": "それでは",
+    "description": "well then ..."
+  },
+  {
+    "name": "それに",
+    "description": "besides, in addition, also, moreover"
+  },
+  {
+    "name": "ダイエット",
+    "description": "diet"
+  },
+  {
+    "name": "だから",
+    "description": "so, therefore, accordingly, consequently, on those grounds, that is why, for that reason"
+  },
+  {
+    "name": "タクシー",
+    "description": "taxi"
+  },
+  {
+    "name": "ただいま",
+    "description": "here I am, I'm home!"
+  },
+  {
+    "name": "タバコ",
+    "description": "tobacco, cigarette, cigaret, cigar"
+  },
+  {
+    "name": "タバコを吸う",
+    "description": "to smoke a cigarette"
+  },
+  {
+    "name": "チケット",
+    "description": "ticket"
+  },
+  {
+    "name": "ツアー",
+    "description": "tour"
+  },
+  {
+    "name": "デート",
+    "description": "date (with someone), (social) outing (for two), date night"
+  },
+  {
+    "name": "テーブル",
+    "description": "table"
+  },
+  {
+    "name": "テープレコーダー",
+    "description": "tape recorder"
+  },
+  {
+    "name": "テスト",
+    "description": "test"
+  },
+  {
+    "name": "デパート",
+    "description": "department store"
+  },
+  {
+    "name": "でも",
+    "description": "but, however, though, nevertheless, still, yet, even so"
+  },
+  {
+    "name": "テレビ",
+    "description": "television, TV"
+  },
+  {
+    "name": "ドア",
+    "description": "door (Western-style)"
+  },
+  {
+    "name": "トイレ",
+    "description": "toilet, restroom, bathroom, lavatory"
+  },
+  {
+    "name": "どうして",
+    "description": "why?, for what reason, how, in what way, for what purpose, what for"
+  },
+  {
+    "name": "どうぞ",
+    "description": "please, kindly, I beg of you"
+  },
+  {
+    "name": "どうですか",
+    "description": "How about ...?, How is ...?"
+  },
+  {
+    "name": "どうも",
+    "description": "thanks"
+  },
+  {
+    "name": "どうやって",
+    "description": "how, in what way, by what means"
+  },
+  {
+    "name": "どこ",
+    "description": "where, what place"
+  },
+  {
+    "name": "ところで",
+    "description": "by the way, incidentally"
+  },
+  {
+    "name": "どちら",
+    "description": "which way, which direction, where"
+  },
+  {
+    "name": "とても",
+    "description": "very, awfully, exceedingly"
+  },
+  {
+    "name": "どなた",
+    "description": "who?"
+  },
+  {
+    "name": "どの",
+    "description": "which, what (way)"
+  },
+  {
+    "name": "どのくらい",
+    "description": "how long, how far, how much"
+  },
+  {
+    "name": "トマト",
+    "description": "tomato (Solanum lycopersicum)"
+  },
+  {
+    "name": "ドライブ",
+    "description": "drive, trip by car, driving"
+  },
+  {
+    "name": "どれ",
+    "description": "which (of three or more)"
+  },
+  {
+    "name": "どんな",
+    "description": "what kind of, what sort of"
+  },
+  {
+    "name": "ナイフ",
+    "description": "knife"
+  },
+  {
+    "name": "なぜ",
+    "description": "why, how"
+  },
+  {
+    "name": "二ヶ月前",
+    "description": "two months ago"
+  },
+  {
+    "name": "について",
+    "description": "concerning, regarding"
+  },
+  {
+    "name": "ニュース",
+    "description": "news"
+  },
+  {
+    "name": "人参",
+    "description": "carrot (Daucus carota)"
+  },
+  {
+    "name": "ノート",
+    "description": "notebook, copy-book, exercise book"
+  },
+  {
+    "name": "パーティー",
+    "description": "party"
+  },
+  {
+    "name": "バーベキュー",
+    "description": "barbecue, BBQ"
+  },
+  {
+    "name": "はい",
+    "description": "yes, that is correct"
+  },
+  {
+    "name": "バス",
+    "description": "bus"
+  },
+  {
+    "name": "バス停",
+    "description": "bus stop"
+  },
+  {
+    "name": "パソコン",
+    "description": "personal computer"
+  },
+  {
+    "name": "ハラルフード",
+    "description": "halal food"
+  },
+  {
+    "name": "パン",
+    "description": "bread, pastries (e.g. croissants), pastry-based products"
+  },
+  {
+    "name": "ハンカチ",
+    "description": "handkerchief"
+  },
+  {
+    "name": "バンド",
+    "description": "band"
+  },
+  {
+    "name": "ハンバーガー",
+    "description": "hamburger (on a bun)"
+  },
+  {
+    "name": "ピーナッツ",
+    "description": "peanut"
+  },
+  {
+    "name": "ビール",
+    "description": "beer"
+  },
+  {
+    "name": "ピアノ",
+    "description": "piano"
+  },
+  {
+    "name": "ピザ",
+    "description": "pizza"
+  },
+  {
+    "name": "びっくり",
+    "description": "to be surprised, to be amazed, to be frightened, to be astonished, to get startled, to jump"
+  },
+  {
+    "name": "ビル",
+    "description": "multi-floor building, multi-storey building"
+  },
+  {
+    "name": "プール",
+    "description": "(swimming) pool"
+  },
+  {
+    "name": "フィルム",
+    "description": "film"
+  },
+  {
+    "name": "フォーク",
+    "description": "fork"
+  },
+  {
+    "name": "ぶどう",
+    "description": "grape, grapevine"
+  },
+  {
+    "name": "ページ",
+    "description": "page"
+  },
+  {
+    "name": "ベッド",
+    "description": "bed"
+  },
+  {
+    "name": "ペン",
+    "description": "pen"
+  },
+  {
+    "name": "ホーム",
+    "description": "platform"
+  },
+  {
+    "name": "ポケット",
+    "description": "pocket"
+  },
+  {
+    "name": "ホストファミリー",
+    "description": "host family"
+  },
+  {
+    "name": "ホテル",
+    "description": "hotel"
+  },
+  {
+    "name": "ホラー",
+    "description": "horror"
+  },
+  {
+    "name": "ボランティア",
+    "description": "volunteer"
+  },
+  {
+    "name": "まあまあ",
+    "description": "so-so, passable"
+  },
+  {
+    "name": "まだ",
+    "description": "as yet, hitherto, only, still"
+  },
+  {
+    "name": "ママ",
+    "description": "Mama"
+  },
+  {
+    "name": "ミカン",
+    "description": "mandarin (esp. the satsuma mandarin (Citrus unshiu)), mandarin orange, tangerine, clementine"
+  },
+  {
+    "name": "メートル",
+    "description": "metre, meter"
+  },
+  {
+    "name": "メール",
+    "description": "email"
+  },
+  {
+    "name": "メニュー",
+    "description": "menu"
+  },
+  {
+    "name": "もう",
+    "description": "now, soon, shortly, before long, presently"
+  },
+  {
+    "name": "もう一度",
+    "description": "once more, again"
+  },
+  {
+    "name": "もう直ぐ",
+    "description": "soon, shortly, before long, nearly, almost"
+  },
+  {
+    "name": "もしもし",
+    "description": "hello (e.g. on phone)"
+  },
+  {
+    "name": "お餅",
+    "description": "mochi, (sticky) rice cake"
+  },
+  {
+    "name": "もちろん",
+    "description": "of course, certainly, naturally"
+  },
+  {
+    "name": "もっと",
+    "description": "(some) more, even more, longer, further"
+  },
+  {
+    "name": "ゆっくり",
+    "description": "slowly, unhurriedly, without haste, leisurely, at one's leisure"
+  },
+  {
+    "name": "よろしくお願いします",
+    "description": "please remember me, please help me, please treat me well, I look forward to working with you"
+  },
+  {
+    "name": "ラジオ",
+    "description": "radio"
+  },
+  {
+    "name": "リットル",
+    "description": "litre"
+  },
+  {
+    "name": "レコード",
+    "description": "record (e.g. LP)"
+  },
+  {
+    "name": "レジ",
+    "description": "(cash) register"
+  },
+  {
+    "name": "レストラン",
+    "description": "restaurant (esp. Western-style)"
+  },
+  {
+    "name": "レポート",
+    "description": "report, paper"
+  },
+  {
+    "name": "ワイン",
+    "description": "wine"
+  },
+  {
+    "name": "一つ目",
+    "description": "first, initial, first thing, one-eyed"
+  },
+  {
+    "name": "一人で",
+    "description": "alone, by oneself, on one's own"
+  },
+  {
+    "name": "ちょっと",
+    "description": "just a minute, short time, just a little"
+  },
+  {
+    "name": "一年に一度",
+    "description": "once a year"
+  },
+  {
+    "name": "一年生",
+    "description": "first-year student, annual (plant)"
+  },
+  {
+    "name": "一昨年",
+    "description": "year before last"
+  },
+  {
+    "name": "一昨日",
+    "description": "day before yesterday"
+  },
+  {
+    "name": "一月",
+    "description": "January"
+  },
+  {
+    "name": "一番",
+    "description": "number one, first, first place"
+  },
+  {
+    "name": "一緒に",
+    "description": "together (with), at the same time, in a lump"
+  },
+  {
+    "name": "丁寧な言い方",
+    "description": "polite expression"
+  },
+  {
+    "name": "隣",
+    "description": "neighbor"
+  },
+  {
+    "name": "万年筆",
+    "description": "fountain pen"
+  },
+  {
+    "name": "だけ",
+    "description": "only, just, merely, simply, no more than, nothing but, alone"
+  },
+  {
+    "name": "丈夫",
+    "description": "healthy, robust, strong, solid, durable"
+  },
+  {
+    "name": "三つ目",
+    "description": "third"
+  },
+  {
+    "name": "上",
+    "description": "above, up, over, elder (e.g. daughter)"
+  },
+  {
+    "name": "上がる",
+    "description": "to rise, to go up, to come up, to ascend, to be raised"
+  },
+  {
+    "name": "上げる",
+    "description": "to raise, to elevate"
+  },
+  {
+    "name": "上る",
+    "description": "to ascend, to go up, to climb, to be presented (of food)"
+  },
+  {
+    "name": "上手",
+    "description": "skill, skillful, dexterity"
+  },
+  {
+    "name": "上手い",
+    "description": "skillful, skilful, clever, expert, wise, successful"
+  },
+  {
+    "name": "上着",
+    "description": "coat, tunic, jacket, outer garment"
+  },
+  {
+    "name": "下",
+    "description": "below, down, under, younger (e.g. daughter)"
+  },
+  {
+    "name": "下がる",
+    "description": "to come down, to go down, to fall, to drop, to sink, to get lower"
+  },
+  {
+    "name": "下げる",
+    "description": "to hang, to suspend, to wear (e.g. decoration)"
+  },
+  {
+    "name": "下さい",
+    "description": "please give me"
+  },
+  {
+    "name": "下手",
+    "description": "unskillful, poor, awkward"
+  },
+  {
+    "name": "下痢",
+    "description": "diarrhea, diarrhoea"
+  },
+  {
+    "name": "下着",
+    "description": "underwear"
+  },
+  {
+    "name": "世界",
+    "description": "the world, society, the universe"
+  },
+  {
+    "name": "両親",
+    "description": "parents, both parents"
+  },
+  {
+    "name": "中",
+    "description": "inside, in"
+  },
+  {
+    "name": "中国",
+    "description": "China"
+  },
+  {
+    "name": "丸い",
+    "description": "round, circular, spherical"
+  },
+  {
+    "name": "主婦",
+    "description": "housewife, mistress (of the house), homemaker"
+  },
+  {
+    "name": "久しぶり",
+    "description": "a long time (since the last time), first in a long time"
+  },
+  {
+    "name": "乗り換え",
+    "description": "transfer (trains, buses, etc.), change, connection"
+  },
+  {
+    "name": "乗る",
+    "description": "to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark"
+  },
+  {
+    "name": "乗車券",
+    "description": "ticket (for bus, train, etc.), passenger ticket"
+  },
+  {
+    "name": "乾杯",
+    "description": "cheers, bottoms-up, prosit"
+  },
+  {
+    "name": "予約",
+    "description": "reservation, appointment, booking, advance order"
+  },
+  {
+    "name": "事",
+    "description": "thing, matter"
+  },
+  {
+    "name": "二つ目",
+    "description": "one after next, second"
+  },
+  {
+    "name": "二三日",
+    "description": "two or three days"
+  },
+  {
+    "name": "二人ずつ",
+    "description": "two by two, by twos, as a couple"
+  },
+  {
+    "name": "二十歳",
+    "description": "20 years old"
+  },
+  {
+    "name": "二日酔い",
+    "description": "hangover"
+  },
+  {
+    "name": "二時半",
+    "description": "half past two"
+  },
+  {
+    "name": "二週間前",
+    "description": "two weeks ago"
+  },
+  {
+    "name": "交差点",
+    "description": "crossing, intersection"
+  },
+  {
+    "name": "交番",
+    "description": "police box, small neighborhood police station"
+  },
+  {
+    "name": "交通系ＩＣカード",
+    "description": "rechargeable card such as a Suica, Icoca, Pasmo, etc."
+  },
+  {
+    "name": "人",
+    "description": "-ian (e.g. Italian), -ite (e.g. Tokyoite)"
+  },
+  {
+    "name": "人",
+    "description": "man, person"
+  },
+  {
+    "name": "人",
+    "description": "counter for people"
+  },
+  {
+    "name": "人々",
+    "description": "people, men and women"
+  },
+  {
+    "name": "人口",
+    "description": "population"
+  },
+  {
+    "name": "人気がある",
+    "description": "to be popular"
+  },
+  {
+    "name": "今",
+    "description": "now, the present time, just now, soon, immediately, (one) more"
+  },
+  {
+    "name": "今学期",
+    "description": "this semester"
+  },
+  {
+    "name": "今年",
+    "description": "this year"
+  },
+  {
+    "name": "今度",
+    "description": "now, this time, next time, another time"
+  },
+  {
+    "name": "今日",
+    "description": "today, this day"
+  },
+  {
+    "name": "こんにちは",
+    "description": "hello, good day, good afternoon"
+  },
+  {
+    "name": "今晩",
+    "description": "tonight, this evening"
+  },
+  {
+    "name": "今月",
+    "description": "this month"
+  },
+  {
+    "name": "今朝",
+    "description": "this morning"
+  },
+  {
+    "name": "今週",
+    "description": "this week"
+  },
+  {
+    "name": "仕事",
+    "description": "work, job, business, occupation, employment, vocation, task"
+  },
+  {
+    "name": "他",
+    "description": "other (place, thing, person), the rest"
+  },
+  {
+    "name": "他に",
+    "description": "in addition, besides"
+  },
+  {
+    "name": "付く",
+    "description": "to be attached, to be connected with, to adhere, to stick, to cling"
+  },
+  {
+    "name": "代",
+    "description": "charge, cost, price, generation, age, school year, cohort, reign, era, a representative of, on behalf of, for, switchboard number, counter for decades of ages, eras, etc., counter for generations, proxy application company, pronoun, substitute, period, fee"
+  },
+  {
+    "name": "以内",
+    "description": "within, inside of, less than"
+  },
+  {
+    "name": "休み",
+    "description": "rest, recess, respite"
+  },
+  {
+    "name": "休む",
+    "description": "to be absent, to take a day off"
+  },
+  {
+    "name": "会う",
+    "description": "to meet, to encounter, to see"
+  },
+  {
+    "name": "会社",
+    "description": "company, corporation"
+  },
+  {
+    "name": "会社員",
+    "description": "company employee, office worker, white-collar worker"
+  },
+  {
+    "name": "会話",
+    "description": "conversation"
+  },
+  {
+    "name": "会議",
+    "description": "meeting, conference, session, assembly, council, convention, congress"
+  },
+  {
+    "name": "低い",
+    "description": "low (rank, degree, value, content, quality, etc.)"
+  },
+  {
+    "name": "住む",
+    "description": "to live (of humans), to reside, to inhabit, to dwell, to abide"
+  },
+  {
+    "name": "住所",
+    "description": "address (e.g. of house), residence, domicile"
+  },
+  {
+    "name": "体に気をつける",
+    "description": "to take care of oneself"
+  },
+  {
+    "name": "体調",
+    "description": "physical condition"
+  },
+  {
+    "name": "何",
+    "description": "what"
+  },
+  {
+    "name": "何",
+    "description": "what"
+  },
+  {
+    "name": "何か",
+    "description": "something, some, any"
+  },
+  {
+    "name": "何も",
+    "description": "(not) anything, (nothing) at all, (not) any, nothing"
+  },
+  {
+    "name": "余り",
+    "description": "remainder, rest, balance, remains, scraps, residue, remnant"
+  },
+  {
+    "name": "作る",
+    "description": "to make, to produce, to manufacture, to build, to construct"
+  },
+  {
+    "name": "作家",
+    "description": "author, writer, novelist, artist"
+  },
+  {
+    "name": "作文",
+    "description": "writing (an essay, prose, etc.), composition"
+  },
+  {
+    "name": "使う",
+    "description": "to use (a thing, method, etc.), to make use of, to put to use"
+  },
+  {
+    "name": "例えば",
+    "description": "for example, for instance, e.g."
+  },
+  {
+    "name": "便利",
+    "description": "convenient, handy, useful"
+  },
+  {
+    "name": "保険証",
+    "description": "insurance card"
+  },
+  {
+    "name": "信号",
+    "description": "signal, signalling, signaling"
+  },
+  {
+    "name": "借りる",
+    "description": "to borrow, to have a loan"
+  },
+  {
+    "name": "傘",
+    "description": "umbrella, parasol"
+  },
+  {
+    "name": "働く",
+    "description": "to work, to labor, to labour"
+  },
+  {
+    "name": "僕",
+    "description": "I, me"
+  },
+  {
+    "name": "優しい",
+    "description": "tender, kind, gentle, graceful, affectionate, amiable, nice"
+  },
+  {
+    "name": "元気",
+    "description": "lively, full of spirit, energetic, vigorous, vital, spirited"
+  },
+  {
+    "name": "元気がない",
+    "description": "don't look well"
+  },
+  {
+    "name": "兄",
+    "description": "elder brother, older brother"
+  },
+  {
+    "name": "兄弟",
+    "description": "siblings, brothers and sisters"
+  },
+  {
+    "name": "先",
+    "description": "previous, prior, former, some time ago, preceding"
+  },
+  {
+    "name": "先ず",
+    "description": "first (of all), firstly, to begin with, before anything else"
+  },
+  {
+    "name": "先月",
+    "description": "last month"
+  },
+  {
+    "name": "先生",
+    "description": "teacher, master, doctor"
+  },
+  {
+    "name": "先輩",
+    "description": "senior (at work or school), superior, elder, older graduate, progenitor, old-timer"
+  },
+  {
+    "name": "先週",
+    "description": "last week, the week before"
+  },
+  {
+    "name": "入る",
+    "description": "to enter, to go into"
+  },
+  {
+    "name": "入れる",
+    "description": "to put in, to let in, to take in, to bring in, to insert, to set (a jewel, etc.), to ink in (e.g. a tattoo)"
+  },
+  {
+    "name": "入口",
+    "description": "entrance, entry, gate, approach, mouth"
+  },
+  {
+    "name": "全然",
+    "description": "(not) at all, (not) in the slightest"
+  },
+  {
+    "name": "全部",
+    "description": "all, entire, whole, altogether"
+  },
+  {
+    "name": "八百屋",
+    "description": "greengrocer"
+  },
+  {
+    "name": "公園",
+    "description": "(public) park"
+  },
+  {
+    "name": "公開",
+    "description": "opening to the public, making available to the public, putting on display, exhibiting, showing (play, movie, etc.), holding (interview, etc.), open, public"
+  },
+  {
+    "name": "共通語",
+    "description": "common language, lingua franca"
+  },
+  {
+    "name": "内科",
+    "description": "internal medicine, i.e. treatment by medical procedures rather than surgical procedures"
+  },
+  {
+    "name": "円",
+    "description": "yen, Japanese monetary unit"
+  },
+  {
+    "name": "再来年",
+    "description": "year after next"
+  },
+  {
+    "name": "再来月",
+    "description": "month after next"
+  },
+  {
+    "name": "再来週",
+    "description": "week after next"
+  },
+  {
+    "name": "写真",
+    "description": "photograph, photo, picture, snapshot, snap"
+  },
+  {
+    "name": "冬",
+    "description": "winter"
+  },
+  {
+    "name": "冷たい",
+    "description": "cold (to the touch), chilly, icy, freezing"
+  },
+  {
+    "name": "冷蔵庫",
+    "description": "refrigerator"
+  },
+  {
+    "name": "凄い",
+    "description": "terrible, dreadful"
+  },
+  {
+    "name": "凄く",
+    "description": "awfully, very, immensely"
+  },
+  {
+    "name": "出かける",
+    "description": "to go out (e.g. on an excursion or outing), to leave, to depart, to start, to set out"
+  },
+  {
+    "name": "出す",
+    "description": "to take out, to get out"
+  },
+  {
+    "name": "出る",
+    "description": "to leave, to exit, to go out, to come out, to get out"
+  },
+  {
+    "name": "出口",
+    "description": "exit, gateway, way out, outlet, leak, vent"
+  },
+  {
+    "name": "出来るだけ",
+    "description": "as much as one can, as much as possible, if at all possible"
+  },
+  {
+    "name": "出身",
+    "description": "person's origin (e.g. city, country, parentage, school)"
+  },
+  {
+    "name": "分かる",
+    "description": "to understand, to comprehend, to grasp, to see, to get, to follow"
+  },
+  {
+    "name": "切る",
+    "description": "to cut, to cut through, to perform (surgery)"
+  },
+  {
+    "name": "切手",
+    "description": "stamp (postage), merchandise certificate"
+  },
+  {
+    "name": "切符",
+    "description": "ticket"
+  },
+  {
+    "name": "切符売り場",
+    "description": "ticket window, box office"
+  },
+  {
+    "name": "初めて",
+    "description": "for the first time"
+  },
+  {
+    "name": "初めまして",
+    "description": "How do you do?, I am glad to meet you"
+  },
+  {
+    "name": "別に",
+    "description": "(not) particularly, (not) especially, (not) specially"
+  },
+  {
+    "name": "前",
+    "description": "ago, before (some event), previously"
+  },
+  {
+    "name": "力",
+    "description": "force, strength, might, vigour (vigor), energy"
+  },
+  {
+    "name": "勉強",
+    "description": "study"
+  },
+  {
+    "name": "動く",
+    "description": "to move, to stir, to shift, to shake, to swing"
+  },
+  {
+    "name": "動物",
+    "description": "animal"
+  },
+  {
+    "name": "動物園",
+    "description": "zoo, zoological gardens"
+  },
+  {
+    "name": "勤める",
+    "description": "to work (for), to be employed (at), to serve (in)"
+  },
+  {
+    "name": "北",
+    "description": "north"
+  },
+  {
+    "name": "医者",
+    "description": "(medical) doctor, physician"
+  },
+  {
+    "name": "午前",
+    "description": "morning, a.m."
+  },
+  {
+    "name": "午前中",
+    "description": "in the morning, during the morning"
+  },
+  {
+    "name": "午後",
+    "description": "afternoon, p.m."
+  },
+  {
+    "name": "半",
+    "description": "half, semi-"
+  },
+  {
+    "name": "半分",
+    "description": "half"
+  },
+  {
+    "name": "南",
+    "description": "south"
+  },
+  {
+    "name": "単語",
+    "description": "word, vocabulary, (usually) single-character word"
+  },
+  {
+    "name": "危ない",
+    "description": "dangerous, risky, hazardous, perilous, precarious"
+  },
+  {
+    "name": "危険",
+    "description": "danger, peril, hazard"
+  },
+  {
+    "name": "卵",
+    "description": "eggs, egg, spawn, roe"
+  },
+  {
+    "name": "厚い",
+    "description": "thick, deep, heavy"
+  },
+  {
+    "name": "去年",
+    "description": "last year"
+  },
+  {
+    "name": "友達",
+    "description": "friend, companion"
+  },
+  {
+    "name": "取る",
+    "description": "to take, to pick up, to harvest, to earn, to win, to choose"
+  },
+  {
+    "name": "受ける",
+    "description": "to receive, to get"
+  },
+  {
+    "name": "受付",
+    "description": "reception (desk), information desk"
+  },
+  {
+    "name": "口",
+    "description": "mouth"
+  },
+  {
+    "name": "古い",
+    "description": "old (not person), aged, ancient, antiquated, stale, threadbare, outmoded, obsolete article"
+  },
+  {
+    "name": "可哀想",
+    "description": "poor, pitiable, pathetic, pitiful"
+  },
+  {
+    "name": "可愛い",
+    "description": "cute, adorable, charming, lovely, pretty"
+  },
+  {
+    "name": "台所",
+    "description": "kitchen"
+  },
+  {
+    "name": "右",
+    "description": "right, right hand side"
+  },
+  {
+    "name": "右側",
+    "description": "right side, right-hand side"
+  },
+  {
+    "name": "叶う",
+    "description": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled"
+  },
+  {
+    "name": "合う",
+    "description": "to come together, to merge, to unite, to meet"
+  },
+  {
+    "name": "同じ",
+    "description": "same, identical, equal, uniform, equivalent, similar, common (origin), changeless, alike"
+  },
+  {
+    "name": "名前",
+    "description": "name, full name"
+  },
+  {
+    "name": "吐く",
+    "description": "to vomit, to throw up, to spit up"
+  },
+  {
+    "name": "向こう",
+    "description": "opposite side, other side, opposite direction"
+  },
+  {
+    "name": "いいえ",
+    "description": "no, nay"
+  },
+  {
+    "name": "吸う",
+    "description": "to smoke, to breathe in, to inhale"
+  },
+  {
+    "name": "吹く",
+    "description": "to blow (e.g. wind), to play a wind instrument"
+  },
+  {
+    "name": "呼ぶ",
+    "description": "to call out (to), to call, to invoke"
+  },
+  {
+    "name": "咲く",
+    "description": "to bloom"
+  },
+  {
+    "name": "咳が出る",
+    "description": "to cough"
+  },
+  {
+    "name": "問題",
+    "description": "question (e.g. on a test), problem"
+  },
+  {
+    "name": "喫茶店",
+    "description": "coffee shop, tearoom, coffee lounge, coffeehouse, cafe"
+  },
+  {
+    "name": "嘘をつく",
+    "description": "to tell a lie, to fib"
+  },
+  {
+    "name": "困る",
+    "description": "to be troubled, to be worried, to be bothered, to be embarrassed, to be stumped"
+  },
+  {
+    "name": "図書館",
+    "description": "library"
+  },
+  {
+    "name": "国",
+    "description": "country, state"
+  },
+  {
+    "name": "土曜日",
+    "description": "Saturday"
+  },
+  {
+    "name": "地図",
+    "description": "map"
+  },
+  {
+    "name": "地蔵",
+    "description": "Kshitigarbha (bodhisattva who looks over children, travellers and the underworld), Ksitigarbha, Jizō"
+  },
+  {
+    "name": "城",
+    "description": "castle"
+  },
+  {
+    "name": "塩",
+    "description": "salt (i.e. sodium chloride), common salt, table salt"
+  },
+  {
+    "name": "塾",
+    "description": "cram school, private tutoring school, juku"
+  },
+  {
+    "name": "声",
+    "description": "voice"
+  },
+  {
+    "name": "売る",
+    "description": "to sell"
+  },
+  {
+    "name": "売店",
+    "description": "stand, stall, booth, kiosk, store"
+  },
+  {
+    "name": "夏",
+    "description": "summer"
+  },
+  {
+    "name": "夏休み",
+    "description": "summer vacation, summer holiday"
+  },
+  {
+    "name": "夕方",
+    "description": "evening, dusk"
+  },
+  {
+    "name": "夕飯",
+    "description": "evening meal"
+  },
+  {
+    "name": "外",
+    "description": "outside, exterior"
+  },
+  {
+    "name": "外国",
+    "description": "foreign country"
+  },
+  {
+    "name": "外国人",
+    "description": "foreigner, foreign citizen, foreign national, alien, non-Japanese"
+  },
+  {
+    "name": "外科",
+    "description": "surgery"
+  },
+  {
+    "name": "多い",
+    "description": "many, numerous"
+  },
+  {
+    "name": "多分",
+    "description": "perhaps, probably, generous, much, many"
+  },
+  {
+    "name": "夜",
+    "description": "evening, night"
+  },
+  {
+    "name": "夢",
+    "description": "dream"
+  },
+  {
+    "name": "大きい",
+    "description": "big, large, great, loud"
+  },
+  {
+    "name": "大きな",
+    "description": "big, large, great"
+  },
+  {
+    "name": "大丈夫",
+    "description": "safe, all right, alright, OK, okay, sure"
+  },
+  {
+    "name": "大事",
+    "description": "important, valuable, serious matter"
+  },
+  {
+    "name": "大人",
+    "description": "adult"
+  },
+  {
+    "name": "大使館",
+    "description": "embassy"
+  },
+  {
+    "name": "大切",
+    "description": "important, necessary, indispensable"
+  },
+  {
+    "name": "大勢",
+    "description": "many, crowd, great number of people"
+  },
+  {
+    "name": "大変",
+    "description": "very, greatly, immense, enormous, great, serious, grave, dreadful, terrible, difficult, hard, major incident, disaster, tough, problem, hardship, terribly, awfully"
+  },
+  {
+    "name": "大好き",
+    "description": "loveable, very likeable, like very much"
+  },
+  {
+    "name": "大嫌い",
+    "description": "detestable, abhorrent, loathsome"
+  },
+  {
+    "name": "大学",
+    "description": "post-secondary education institution, incl. university, college, etc."
+  },
+  {
+    "name": "大学生",
+    "description": "university student, college student"
+  },
+  {
+    "name": "大学院生",
+    "description": "graduate student"
+  },
+  {
+    "name": "大抵",
+    "description": "mostly, ordinarily, usually, generally"
+  },
+  {
+    "name": "天",
+    "description": "sky"
+  },
+  {
+    "name": "天の川",
+    "description": "Milky Way, luminous band corresponding to the plane of the galaxy"
+  },
+  {
+    "name": "天ぷら",
+    "description": "tempura, deep-fried fish and vegetables in a light batter"
+  },
+  {
+    "name": "天気",
+    "description": "weather, the elements"
+  },
+  {
+    "name": "天気予報",
+    "description": "weather forecast, weather report"
+  },
+  {
+    "name": "太い",
+    "description": "fat, thick"
+  },
+  {
+    "name": "太る",
+    "description": "to grow fat (stout, plump), to become fat, to gain weight"
+  },
+  {
+    "name": "奥さん",
+    "description": "wife, your wife, his wife, married lady, madam"
+  },
+  {
+    "name": "女",
+    "description": "female, woman, female sex"
+  },
+  {
+    "name": "女の人",
+    "description": "woman"
+  },
+  {
+    "name": "女の子",
+    "description": "girl, daughter"
+  },
+  {
+    "name": "好き",
+    "description": "liking, fondness, love"
+  },
+  {
+    "name": "どう",
+    "description": "how, in what way, how about"
+  },
+  {
+    "name": "妹",
+    "description": "younger sister"
+  },
+  {
+    "name": "姉",
+    "description": "older sister, elder sister"
+  },
+  {
+    "name": "始まる",
+    "description": "to begin, to start, to commence"
+  },
+  {
+    "name": "始める",
+    "description": "to start, to begin, to commence, to initiate, to originate"
+  },
+  {
+    "name": "娘",
+    "description": "daughter"
+  },
+  {
+    "name": "嫌い",
+    "description": "dislike, hate"
+  },
+  {
+    "name": "嬉しい",
+    "description": "happy, glad, pleasant"
+  },
+  {
+    "name": "子",
+    "description": "child"
+  },
+  {
+    "name": "子供",
+    "description": "child, children"
+  },
+  {
+    "name": "字引",
+    "description": "dictionary"
+  },
+  {
+    "name": "季節",
+    "description": "season, time of year"
+  },
+  {
+    "name": "学割",
+    "description": "student discount"
+  },
+  {
+    "name": "学校",
+    "description": "school"
+  },
+  {
+    "name": "学生",
+    "description": "student (esp. a university student)"
+  },
+  {
+    "name": "安い",
+    "description": "cheap, inexpensive"
+  },
+  {
+    "name": "定期券",
+    "description": "commuter pass, season ticket"
+  },
+  {
+    "name": "客",
+    "description": "guest, visitor"
+  },
+  {
+    "name": "家",
+    "description": "house, residence, dwelling"
+  },
+  {
+    "name": "家",
+    "description": "house, me, my, ours"
+  },
+  {
+    "name": "家事",
+    "description": "housework, domestic chores"
+  },
+  {
+    "name": "家具",
+    "description": "furniture"
+  },
+  {
+    "name": "家族",
+    "description": "family, members of a family"
+  },
+  {
+    "name": "家賃",
+    "description": "rent"
+  },
+  {
+    "name": "宿題",
+    "description": "homework"
+  },
+  {
+    "name": "寂しい",
+    "description": "lonely, lonesome, solitary, desolate"
+  },
+  {
+    "name": "寒い",
+    "description": "cold (e.g. weather)"
+  },
+  {
+    "name": "寝る",
+    "description": "to lie down"
+  },
+  {
+    "name": "寺",
+    "description": "temple (Buddhist)"
+  },
+  {
+    "name": "寿司",
+    "description": "sushi, anything made with vinegared rice (may also contain vegetables, spices, fish, or other delicacies)"
+  },
+  {
+    "name": "封筒",
+    "description": "envelope"
+  },
+  {
+    "name": "小さい",
+    "description": "small, little, tiny"
+  },
+  {
+    "name": "小さな",
+    "description": "small, little, tiny"
+  },
+  {
+    "name": "小学生",
+    "description": "elementary school student, primary school student, grade school student"
+  },
+  {
+    "name": "少し",
+    "description": "small quantity, little, few, something"
+  },
+  {
+    "name": "少ない",
+    "description": "few, a little, scarce, insufficient, seldom"
+  },
+  {
+    "name": "居る",
+    "description": "to be (of animate objects), to exist"
+  },
+  {
+    "name": "履く",
+    "description": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear"
+  },
+  {
+    "name": "山",
+    "description": "mountain, hill"
+  },
+  {
+    "name": "山道",
+    "description": "mountain road, mountain trail"
+  },
+  {
+    "name": "島",
+    "description": "island"
+  },
+  {
+    "name": "川",
+    "description": "river, stream"
+  },
+  {
+    "name": "左",
+    "description": "left, left hand side"
+  },
+  {
+    "name": "左側",
+    "description": "left side, left-hand side"
+  },
+  {
+    "name": "さようなら",
+    "description": "farewell, adieu, goodbye, so long"
+  },
+  {
+    "name": "差す",
+    "description": "to shine"
+  },
+  {
+    "name": "帰る",
+    "description": "to return, to come home, to go home, to go back"
+  },
+  {
+    "name": "帽子",
+    "description": "hat, cap"
+  },
+  {
+    "name": "平日",
+    "description": "weekday, ordinary days (i.e. non-holiday)"
+  },
+  {
+    "name": "年",
+    "description": "year"
+  },
+  {
+    "name": "年",
+    "description": "year"
+  },
+  {
+    "name": "年生",
+    "description": "pupil in ... year, student in ... year"
+  },
+  {
+    "name": "幸せ",
+    "description": "happiness, good fortune, luck, blessing"
+  },
+  {
+    "name": "幾つ",
+    "description": "how many?"
+  },
+  {
+    "name": "幾ら",
+    "description": "how much?, how many?"
+  },
+  {
+    "name": "広い",
+    "description": "spacious, vast, wide"
+  },
+  {
+    "name": "店",
+    "description": "store, shop, establishment, restaurant"
+  },
+  {
+    "name": "店員",
+    "description": "shop assistant, employee, clerk, salesperson"
+  },
+  {
+    "name": "度",
+    "description": "degree (angle, temperature, scale, etc.)"
+  },
+  {
+    "name": "座る",
+    "description": "to sit, to squat"
+  },
+  {
+    "name": "建物",
+    "description": "building"
+  },
+  {
+    "name": "弁当",
+    "description": "bento, Japanese box lunch"
+  },
+  {
+    "name": "引き出し",
+    "description": "drawer, withdrawal, variety of knowledge"
+  },
+  {
+    "name": "引き出す",
+    "description": "to pull out, to take out, to draw out, to withdraw"
+  },
+  {
+    "name": "引く",
+    "description": "to pull"
+  },
+  {
+    "name": "弟",
+    "description": "younger brother, little brother, kid brother"
+  },
+  {
+    "name": "弱い",
+    "description": "weak, frail, delicate, tender, unskilled, weak (wine)"
+  },
+  {
+    "name": "張る",
+    "description": "to stick, to paste, to affix"
+  },
+  {
+    "name": "強い",
+    "description": "strong, powerful, mighty, potent"
+  },
+  {
+    "name": "弾く",
+    "description": "to play (piano, guitar)"
+  },
+  {
+    "name": "あれ",
+    "description": "that, that thing"
+  },
+  {
+    "name": "彼",
+    "description": "he, him"
+  },
+  {
+    "name": "あの",
+    "description": "that, those, the"
+  },
+  {
+    "name": "あそこ",
+    "description": "there (place physically distant from both speaker and listener), over there, that place, yonder"
+  },
+  {
+    "name": "彼女",
+    "description": "she, her"
+  },
+  {
+    "name": "彼氏",
+    "description": "boyfriend"
+  },
+  {
+    "name": "往復",
+    "description": "making a round trip, going and returning, coming and going"
+  },
+  {
+    "name": "待つ",
+    "description": "to wait"
+  },
+  {
+    "name": "後",
+    "description": "after"
+  },
+  {
+    "name": "後",
+    "description": "behind, rear"
+  },
+  {
+    "name": "後で",
+    "description": "afterwards"
+  },
+  {
+    "name": "後ろ",
+    "description": "back, behind, rear"
+  },
+  {
+    "name": "ごめんなさい",
+    "description": "I'm sorry, my apologies, excuse me, pardon me"
+  },
+  {
+    "name": "心配",
+    "description": "worry, concern, anxiety, uneasiness, fear"
+  },
+  {
+    "name": "必要",
+    "description": "necessary, needed, essential, indispensable"
+  },
+  {
+    "name": "忘れる",
+    "description": "to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)"
+  },
+  {
+    "name": "忙しい",
+    "description": "busy, hectic, occupied, engaged"
+  },
+  {
+    "name": "怒る",
+    "description": "to get angry, to get mad"
+  },
+  {
+    "name": "怖い",
+    "description": "scary, frightening, eerie, dreadful"
+  },
+  {
+    "name": "思う",
+    "description": "to think, to consider, to believe"
+  },
+  {
+    "name": "急ぐ",
+    "description": "to hurry, to rush, to hasten, to make something happen sooner"
+  },
+  {
+    "name": "急行",
+    "description": "hurrying (to somewhere), rushing, hastening"
+  },
+  {
+    "name": "性格",
+    "description": "character, personality, disposition, nature"
+  },
+  {
+    "name": "悪い",
+    "description": "bad, poor, inferior"
+  },
+  {
+    "name": "悲しい",
+    "description": "sad, sorrowful"
+  },
+  {
+    "name": "意味",
+    "description": "meaning, significance"
+  },
+  {
+    "name": "意地悪",
+    "description": "malicious, ill-tempered, unkind"
+  },
+  {
+    "name": "意見",
+    "description": "opinion, view, comment"
+  },
+  {
+    "name": "感じ",
+    "description": "feeling, sense, impression"
+  },
+  {
+    "name": "感じる",
+    "description": "to feel, to sense, to experience"
+  },
+  {
+    "name": "感謝",
+    "description": "thanks, gratitude"
+  },
+  {
+    "name": "なる",
+    "description": "to become, to get, to grow, to turn, to reach, to attain"
+  },
+  {
+    "name": "成績",
+    "description": "results, record, grades, marks"
+  },
+  {
+    "name": "戸",
+    "description": "door (esp. Japanese-style)"
+  },
+  {
+    "name": "所",
+    "description": "place, spot, scene, site"
+  },
+  {
+    "name": "手",
+    "description": "hand, arm"
+  },
+  {
+    "name": "手伝う",
+    "description": "to help, to assist, to aid"
+  },
+  {
+    "name": "手紙",
+    "description": "letter"
+  },
+  {
+    "name": "手術",
+    "description": "surgery, operation, procedure"
+  },
+  {
+    "name": "手袋",
+    "description": "glove, mitten, mitt"
+  },
+  {
+    "name": "払う",
+    "description": "to pay (e.g. money, bill), to brush off, to clear away, to prune, to drive away"
+  },
+  {
+    "name": "抗生物質",
+    "description": "antibiotic, antibiotics"
+  },
+  {
+    "name": "押す",
+    "description": "to push, to press"
+  },
+  {
+    "name": "持つ",
+    "description": "to hold (in one's hand), to take, to carry"
+  },
+  {
+    "name": "指",
+    "description": "finger, toe, digit"
+  },
+  {
+    "name": "指定席",
+    "description": "reserved seat"
+  },
+  {
+    "name": "捨てる",
+    "description": "to throw away, to cast away, to dump, to discard"
+  },
+  {
+    "name": "掃除",
+    "description": "cleaning, sweeping, dusting, scrubbing"
+  },
+  {
+    "name": "授業",
+    "description": "lesson, class work, teaching, instruction"
+  },
+  {
+    "name": "掛かる",
+    "description": "to take (a resource, e.g. time or money)"
+  },
+  {
+    "name": "掛ける",
+    "description": "to hang up (e.g. a coat, a picture on the wall), to let hang, to suspend (from), to hoist (e.g. sail), to raise (e.g. flag)"
+  },
+  {
+    "name": "探す",
+    "description": "to search (for something desired, needed), to look for"
+  },
+  {
+    "name": "撮る",
+    "description": "to take (a photo)"
+  },
+  {
+    "name": "改札",
+    "description": "examination of tickets"
+  },
+  {
+    "name": "政治",
+    "description": "politics, government"
+  },
+  {
+    "name": "教える",
+    "description": "to teach, to inform, to instruct"
+  },
+  {
+    "name": "教室",
+    "description": "classroom"
+  },
+  {
+    "name": "教師",
+    "description": "teacher (classroom)"
+  },
+  {
+    "name": "教科書",
+    "description": "textbook, coursebook, schoolbook"
+  },
+  {
+    "name": "散歩",
+    "description": "walk, stroll"
+  },
+  {
+    "name": "文化",
+    "description": "culture, civilization, civilisation"
+  },
+  {
+    "name": "文法",
+    "description": "grammar"
+  },
+  {
+    "name": "文章",
+    "description": "sentence, article, composition"
+  },
+  {
+    "name": "料理",
+    "description": "cooking, cookery, cuisine"
+  },
+  {
+    "name": "新しい",
+    "description": "new, novel, fresh, recent, latest, up-to-date, modern"
+  },
+  {
+    "name": "新幹線",
+    "description": "Shinkansen, bullet train"
+  },
+  {
+    "name": "新聞",
+    "description": "newspaper"
+  },
+  {
+    "name": "方",
+    "description": "direction, way"
+  },
+  {
+    "name": "方言",
+    "description": "dialect, provincialism"
+  },
+  {
+    "name": "方面",
+    "description": "direction, district, area"
+  },
+  {
+    "name": "旅行",
+    "description": "travel, trip"
+  },
+  {
+    "name": "日曜日",
+    "description": "Sunday"
+  },
+  {
+    "name": "日本",
+    "description": "Japan"
+  },
+  {
+    "name": "日本人",
+    "description": "Japanese person, Japanese people"
+  },
+  {
+    "name": "日本語",
+    "description": "Japanese (language)"
+  },
+  {
+    "name": "日記",
+    "description": "diary, journal"
+  },
+  {
+    "name": "早い",
+    "description": "fast, quick, hasty, brisk"
+  },
+  {
+    "name": "早く",
+    "description": "early, soon"
+  },
+  {
+    "name": "明るい",
+    "description": "bright, colourful"
+  },
+  {
+    "name": "明後日",
+    "description": "day after tomorrow"
+  },
+  {
+    "name": "明日",
+    "description": "tomorrow"
+  },
+  {
+    "name": "易しい",
+    "description": "easy, plain, simple"
+  },
+  {
+    "name": "映画",
+    "description": "movie, film"
+  },
+  {
+    "name": "映画館",
+    "description": "movie theatre, movie theater, cinema"
+  },
+  {
+    "name": "春",
+    "description": "spring, springtime"
+  },
+  {
+    "name": "昨日",
+    "description": "yesterday"
+  },
+  {
+    "name": "昼",
+    "description": "noon, midday"
+  },
+  {
+    "name": "昼ご飯",
+    "description": "lunch, midday meal"
+  },
+  {
+    "name": "時",
+    "description": "hour, o'clock"
+  },
+  {
+    "name": "時",
+    "description": "time, hour, moment"
+  },
+  {
+    "name": "時々",
+    "description": "sometimes, at times"
+  },
+  {
+    "name": "時計",
+    "description": "watch, clock, timepiece"
+  },
+  {
+    "name": "時間",
+    "description": "time"
+  },
+  {
+    "name": "晩",
+    "description": "evening"
+  },
+  {
+    "name": "晩ご飯",
+    "description": "dinner, evening meal"
+  },
+  {
+    "name": "普通",
+    "description": "normal, ordinary, regular, usual, common, average"
+  },
+  {
+    "name": "景色",
+    "description": "scenery, scene, landscape"
+  },
+  {
+    "name": "晴れ",
+    "description": "clear weather, fine weather"
+  },
+  {
+    "name": "晴れる",
+    "description": "to clear up, to clear away, to be sunny, to stop raining"
+  },
+  {
+    "name": "暇",
+    "description": "spare time, free time, leisure"
+  },
+  {
+    "name": "暑い",
+    "description": "hot (weather, etc.), warm"
+  },
+  {
+    "name": "暖かい",
+    "description": "warm, mild, genial"
+  },
+  {
+    "name": "暗い",
+    "description": "dark, gloomy"
+  },
+  {
+    "name": "曇り",
+    "description": "cloudiness, cloudy weather, shadow"
+  },
+  {
+    "name": "曲がる",
+    "description": "to bend, to curve, to warp, to wind, to twist"
+  },
+  {
+    "name": "書く",
+    "description": "to write, to compose, to pen"
+  },
+  {
+    "name": "最初",
+    "description": "beginning, outset, first, onset"
+  },
+  {
+    "name": "最後",
+    "description": "last, end, conclusion, latest, most recent"
+  },
+  {
+    "name": "最後に",
+    "description": "lastly"
+  },
+  {
+    "name": "最近",
+    "description": "most recent, these days, right now, recently, nowadays"
+  },
+  {
+    "name": "月",
+    "description": "moon"
+  },
+  {
+    "name": "月曜日",
+    "description": "Monday"
+  },
+  {
+    "name": "ありがとう",
+    "description": "thank you, thanks"
+  },
+  {
+    "name": "ある",
+    "description": "to be, to exist, to live"
+  },
+  {
+    "name": "有名",
+    "description": "famous"
+  },
+  {
+    "name": "有名人",
+    "description": "celebrity, famous person, public figure, big name"
+  },
+  {
+    "name": "ありがとうございます",
+    "description": "thank you"
+  },
+  {
+    "name": "服",
+    "description": "clothes (esp. Western clothes)"
+  },
+  {
+    "name": "朝",
+    "description": "morning"
+  },
+  {
+    "name": "朝ご飯",
+    "description": "breakfast"
+  },
+  {
+    "name": "木",
+    "description": "tree, shrub, bush"
+  },
+  {
+    "name": "木曜日",
+    "description": "Thursday"
+  },
+  {
+    "name": "本",
+    "description": "book, volume, script"
+  },
+  {
+    "name": "本屋",
+    "description": "bookstore, bookshop"
+  },
+  {
+    "name": "本当",
+    "description": "truth, reality, actuality, fact"
+  },
+  {
+    "name": "本棚",
+    "description": "bookshelves, bookshelf, bookcase"
+  },
+  {
+    "name": "机",
+    "description": "desk"
+  },
+  {
+    "name": "村",
+    "description": "village"
+  },
+  {
+    "name": "来る",
+    "description": "to come (spatially or temporally), to approach, to arrive"
+  },
+  {
+    "name": "来学期",
+    "description": "next semester"
+  },
+  {
+    "name": "来年",
+    "description": "next year"
+  },
+  {
+    "name": "来月",
+    "description": "next month"
+  },
+  {
+    "name": "来週",
+    "description": "next week"
+  },
+  {
+    "name": "東",
+    "description": "east"
+  },
+  {
+    "name": "林",
+    "description": "woods, forest, copse, thicket"
+  },
+  {
+    "name": "枚",
+    "description": "counter for flat objects (e.g. sheets of paper)"
+  },
+  {
+    "name": "果物",
+    "description": "fruit"
+  },
+  {
+    "name": "格好いい",
+    "description": "attractive, good-looking, stylish, cool, smooth, neat, with-it, groovy"
+  },
+  {
+    "name": "案内",
+    "description": "guidance, leading (the way), showing around"
+  },
+  {
+    "name": "森",
+    "description": "forest"
+  },
+  {
+    "name": "椅子",
+    "description": "chair, stool"
+  },
+  {
+    "name": "楽しい",
+    "description": "enjoyable, fun"
+  },
+  {
+    "name": "楽しみ",
+    "description": "enjoyment, pleasure, diversion, amusement, hobby"
+  },
+  {
+    "name": "楽しみにする",
+    "description": "to look forward to something"
+  },
+  {
+    "name": "楽しむ",
+    "description": "to enjoy (oneself)"
+  },
+  {
+    "name": "様",
+    "description": "Mr., Mrs., Miss, Ms."
+  },
+  {
+    "name": "横",
+    "description": "horizontal (as opposed to vertical), lying down, the same level (social standing)"
+  },
+  {
+    "name": "橋",
+    "description": "bridge"
+  },
+  {
+    "name": "機会",
+    "description": "chance, opportunity"
+  },
+  {
+    "name": "次",
+    "description": "next, following, subsequent"
+  },
+  {
+    "name": "次に",
+    "description": "next, then, after that"
+  },
+  {
+    "name": "次発",
+    "description": "second train to depart, following train, next train"
+  },
+  {
+    "name": "欲しい",
+    "description": "wanted, wished for, in need of, desired"
+  },
+  {
+    "name": "歌",
+    "description": "song"
+  },
+  {
+    "name": "歌う",
+    "description": "to sing"
+  },
+  {
+    "name": "歌手",
+    "description": "singer"
+  },
+  {
+    "name": "歌舞伎",
+    "description": "kabuki, Japanese classical drama"
+  },
+  {
+    "name": "止まる",
+    "description": "to stop (moving), to come to a stop"
+  },
+  {
+    "name": "止める",
+    "description": "to stop, to turn off"
+  },
+  {
+    "name": "止める",
+    "description": "to stop (an activity), to cease, to discontinue, to end, to quit"
+  },
+  {
+    "name": "正月",
+    "description": "New Year (esp. first three days)"
+  },
+  {
+    "name": "歩く",
+    "description": "to walk"
+  },
+  {
+    "name": "歯",
+    "description": "tooth"
+  },
+  {
+    "name": "歯科",
+    "description": "dentistry"
+  },
+  {
+    "name": "歳",
+    "description": "years-old"
+  },
+  {
+    "name": "歴史",
+    "description": "history"
+  },
+  {
+    "name": "死ぬ",
+    "description": "to die, to pass away"
+  },
+  {
+    "name": "残る",
+    "description": "to remain, to be left"
+  },
+  {
+    "name": "残念",
+    "description": "deplorable, regrettable, disappointing, vexing, unfortunate"
+  },
+  {
+    "name": "母",
+    "description": "mother"
+  },
+  {
+    "name": "毎日",
+    "description": "every day"
+  },
+  {
+    "name": "毎晩",
+    "description": "every night"
+  },
+  {
+    "name": "毎朝",
+    "description": "every morning"
+  },
+  {
+    "name": "毎週",
+    "description": "every week"
+  },
+  {
+    "name": "気分が悪い",
+    "description": "feel sick, feel unwell"
+  },
+  {
+    "name": "気持ち",
+    "description": "feeling, sensation, mood"
+  },
+  {
+    "name": "気温",
+    "description": "air temperature"
+  },
+  {
+    "name": "水",
+    "description": "water (esp. cool, fresh water, e.g. drinking water)"
+  },
+  {
+    "name": "水曜日",
+    "description": "Wednesday"
+  },
+  {
+    "name": "水色",
+    "description": "light blue, pale blue, aqua"
+  },
+  {
+    "name": "汚い",
+    "description": "dirty, filthy, foul, unclean"
+  },
+  {
+    "name": "決まる",
+    "description": "to be decided, to be settled"
+  },
+  {
+    "name": "決める",
+    "description": "to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix"
+  },
+  {
+    "name": "沢山",
+    "description": "a lot, lots, plenty, many, a large number, much, a great deal, a good deal"
+  },
+  {
+    "name": "泊まる",
+    "description": "to stay at (e.g. hotel)"
+  },
+  {
+    "name": "泣く",
+    "description": "to cry, to weep, to sob, to howl"
+  },
+  {
+    "name": "注射",
+    "description": "injection, jab, shot"
+  },
+  {
+    "name": "注意",
+    "description": "caution, being careful, attention (heed), warning, advice"
+  },
+  {
+    "name": "泳ぐ",
+    "description": "to swim"
+  },
+  {
+    "name": "洗う",
+    "description": "to wash"
+  },
+  {
+    "name": "洗濯",
+    "description": "washing, laundry"
+  },
+  {
+    "name": "浴びる",
+    "description": "to dash over oneself (e.g. water), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in"
+  },
+  {
+    "name": "海",
+    "description": "sea, ocean, waters"
+  },
+  {
+    "name": "海外",
+    "description": "foreign, abroad, overseas"
+  },
+  {
+    "name": "消える",
+    "description": "to go out, to vanish, to disappear"
+  },
+  {
+    "name": "消しゴム",
+    "description": "eraser, rubber"
+  },
+  {
+    "name": "消す",
+    "description": "to erase, to delete, to cross out"
+  },
+  {
+    "name": "消防士",
+    "description": "firefighter, fireman, fireperson"
+  },
+  {
+    "name": "涼しい",
+    "description": "cool, refreshing"
+  },
+  {
+    "name": "渡す",
+    "description": "to ferry across (e.g. a river), to carry across, to traverse"
+  },
+  {
+    "name": "渡る",
+    "description": "to cross over, to go across"
+  },
+  {
+    "name": "温い",
+    "description": "lukewarm, tepid"
+  },
+  {
+    "name": "温泉",
+    "description": "hot spring"
+  },
+  {
+    "name": "湖",
+    "description": "lake"
+  },
+  {
+    "name": "漢字",
+    "description": "Chinese characters, kanji"
+  },
+  {
+    "name": "漫画",
+    "description": "cartoon, comic, comic strip"
+  },
+  {
+    "name": "漫画家",
+    "description": "cartoonist, comic book artist, manga artist, manga author, mangaka"
+  },
+  {
+    "name": "火",
+    "description": "fire, flame, blaze"
+  },
+  {
+    "name": "火傷",
+    "description": "burn, scald"
+  },
+  {
+    "name": "火曜日",
+    "description": "Tuesday"
+  },
+  {
+    "name": "灰皿",
+    "description": "ashtray"
+  },
+  {
+    "name": "灰色",
+    "description": "grey, gray, ashen"
+  },
+  {
+    "name": "点",
+    "description": "dot, spot, speck, mark, grade, score, points, point, goal, run, aspect, detail, part, respect, way, viewpoint, punctuation mark, dot stroke, counter for points, marks, goals, etc., counter for goods, items, articles of clothing, works of art"
+  },
+  {
+    "name": "点ける",
+    "description": "to turn on, to switch on, to light up"
+  },
+  {
+    "name": "点滴",
+    "description": "raindrops, falling drop of water"
+  },
+  {
+    "name": "無くす",
+    "description": "to lose something"
+  },
+  {
+    "name": "煩い",
+    "description": "noisy, loud"
+  },
+  {
+    "name": "熱い",
+    "description": "hot (thing)"
+  },
+  {
+    "name": "熱がある",
+    "description": "to have a fever"
+  },
+  {
+    "name": "父",
+    "description": "father"
+  },
+  {
+    "name": "片道",
+    "description": "one-way (trip)"
+  },
+  {
+    "name": "牛",
+    "description": "cattle (Bos taurus), cow, bull, ox, calf"
+  },
+  {
+    "name": "牛乳",
+    "description": "(cow's) milk"
+  },
+  {
+    "name": "牛肉",
+    "description": "beef"
+  },
+  {
+    "name": "物",
+    "description": "thing, object, article, stuff, substance"
+  },
+  {
+    "name": "特急",
+    "description": "limited express (train for which a limited-express ticket is required)"
+  },
+  {
+    "name": "犬",
+    "description": "dog (Canis (lupus) familiaris)"
+  },
+  {
+    "name": "狭い",
+    "description": "narrow, confined, small"
+  },
+  {
+    "name": "猫",
+    "description": "cat"
+  },
+  {
+    "name": "玄関",
+    "description": "entranceway, entry hall, vestibule, foyer, entryway, mud room"
+  },
+  {
+    "name": "玉",
+    "description": "ball, sphere, globe, orb"
+  },
+  {
+    "name": "玉ねぎ",
+    "description": "onion (Allium cepa)"
+  },
+  {
+    "name": "王",
+    "description": "king, ruler, sovereign, monarch"
+  },
+  {
+    "name": "玩具",
+    "description": "toy, plaything"
+  },
+  {
+    "name": "理由",
+    "description": "reason, pretext, motive"
+  },
+  {
+    "name": "甘い",
+    "description": "sweet-tasting, sweet, sugary, sugared"
+  },
+  {
+    "name": "生まれる",
+    "description": "to be born"
+  },
+  {
+    "name": "生徒",
+    "description": "pupil"
+  },
+  {
+    "name": "生活",
+    "description": "living, life (one's daily existence), livelihood"
+  },
+  {
+    "name": "生物学",
+    "description": "biology"
+  },
+  {
+    "name": "産婦人科",
+    "description": "maternity and gynaecology department (gynecology), department of obstetrics and gynaecology (gynecology)"
+  },
+  {
+    "name": "用事",
+    "description": "tasks, things to do, errand, business (to take care of), affairs, engagement"
+  },
+  {
+    "name": "田舎",
+    "description": "rural area, countryside, the sticks"
+  },
+  {
+    "name": "男",
+    "description": "man, male"
+  },
+  {
+    "name": "男の人",
+    "description": "man"
+  },
+  {
+    "name": "男の子",
+    "description": "boy, male child, baby boy"
+  },
+  {
+    "name": "町",
+    "description": "town, block, neighbourhood, neighborhood"
+  },
+  {
+    "name": "留学",
+    "description": "studying abroad"
+  },
+  {
+    "name": "留学生",
+    "description": "overseas student, exchange student"
+  },
+  {
+    "name": "番",
+    "description": "number (in a series)"
+  },
+  {
+    "name": "番号",
+    "description": "number, series of digits"
+  },
+  {
+    "name": "番線",
+    "description": "track number"
+  },
+  {
+    "name": "疲れる",
+    "description": "to get tired, to tire"
+  },
+  {
+    "name": "病気",
+    "description": "illness, disease, sickness"
+  },
+  {
+    "name": "病院",
+    "description": "hospital"
+  },
+  {
+    "name": "痛い",
+    "description": "painful, sore"
+  },
+  {
+    "name": "発疹",
+    "description": "rash, eruption"
+  },
+  {
+    "name": "発音",
+    "description": "pronunciation"
+  },
+  {
+    "name": "白",
+    "description": "white"
+  },
+  {
+    "name": "白い",
+    "description": "white"
+  },
+  {
+    "name": "皆",
+    "description": "all, everyone, everybody"
+  },
+  {
+    "name": "皆さん",
+    "description": "all, everyone, everybody"
+  },
+  {
+    "name": "皆で",
+    "description": "all (of the people) together"
+  },
+  {
+    "name": "目",
+    "description": "eye, eyeball"
+  },
+  {
+    "name": "直ぐ",
+    "description": "immediately, at once, right away, directly"
+  },
+  {
+    "name": "直ぐに",
+    "description": "instantly, immediately"
+  },
+  {
+    "name": "看護師",
+    "description": "(hospital) nurse, registered nurse, RN"
+  },
+  {
+    "name": "真っ直ぐ",
+    "description": "straight (ahead), direct, upright, erect"
+  },
+  {
+    "name": "真面目",
+    "description": "diligent, serious, honest, sober, grave, earnest, steady"
+  },
+  {
+    "name": "眠い",
+    "description": "sleepy, drowsy, somnolent"
+  },
+  {
+    "name": "眼科",
+    "description": "ophthalmology"
+  },
+  {
+    "name": "眼鏡",
+    "description": "spectacles, glasses"
+  },
+  {
+    "name": "着く",
+    "description": "to arrive at, to reach"
+  },
+  {
+    "name": "着る",
+    "description": "to wear (in modern Japanese, from the shoulders down), to put on"
+  },
+  {
+    "name": "着物",
+    "description": "clothing, clothes"
+  },
+  {
+    "name": "知る",
+    "description": "to be aware of, to know, to be conscious of, to cognize, to cognise"
+  },
+  {
+    "name": "短い",
+    "description": "short"
+  },
+  {
+    "name": "砂糖",
+    "description": "sugar"
+  },
+  {
+    "name": "研究者",
+    "description": "researcher"
+  },
+  {
+    "name": "砕けた言い方",
+    "description": "colloquial expression, slang, casual expression"
+  },
+  {
+    "name": "硬い言い方",
+    "description": "bookish expression, written expression"
+  },
+  {
+    "name": "社長",
+    "description": "company president, manager, director"
+  },
+  {
+    "name": "神様",
+    "description": "God"
+  },
+  {
+    "name": "神社",
+    "description": "Shinto shrine"
+  },
+  {
+    "name": "祭り",
+    "description": "festival, feast"
+  },
+  {
+    "name": "禁止",
+    "description": "prohibition, inhibition, ban"
+  },
+  {
+    "name": "私",
+    "description": "I, me"
+  },
+  {
+    "name": "私たち",
+    "description": "we, us"
+  },
+  {
+    "name": "秋",
+    "description": "autumn, fall"
+  },
+  {
+    "name": "科学",
+    "description": "science"
+  },
+  {
+    "name": "移る",
+    "description": "to move (house), to transfer (department)"
+  },
+  {
+    "name": "空",
+    "description": "sky, the air, the heavens"
+  },
+  {
+    "name": "窓",
+    "description": "window"
+  },
+  {
+    "name": "立つ",
+    "description": "to stand, to rise, to stand up"
+  },
+  {
+    "name": "笑う",
+    "description": "to laugh"
+  },
+  {
+    "name": "笠",
+    "description": "conical hat (East-Asian style), coolie hat"
+  },
+  {
+    "name": "等",
+    "description": "et cetera, etc., and the like, and so forth"
+  },
+  {
+    "name": "答え",
+    "description": "answer, reply, response, solution"
+  },
+  {
+    "name": "答える",
+    "description": "to answer, to reply"
+  },
+  {
+    "name": "箱",
+    "description": "box, case, chest, package, pack"
+  },
+  {
+    "name": "箸",
+    "description": "chopsticks"
+  },
+  {
+    "name": "簡単",
+    "description": "simple, easy, uncomplicated"
+  },
+  {
+    "name": "糸",
+    "description": "thread, yarn, string"
+  },
+  {
+    "name": "約束",
+    "description": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date"
+  },
+  {
+    "name": "紅茶",
+    "description": "black tea"
+  },
+  {
+    "name": "紙",
+    "description": "paper"
+  },
+  {
+    "name": "素敵",
+    "description": "lovely, wonderful, nice, great, fantastic, superb, cool"
+  },
+  {
+    "name": "紫",
+    "description": "purple, violet"
+  },
+  {
+    "name": "細い",
+    "description": "thin, slender, fine"
+  },
+  {
+    "name": "紹介",
+    "description": "introduction, presentation, referral, listing"
+  },
+  {
+    "name": "終わり",
+    "description": "the end"
+  },
+  {
+    "name": "終わる",
+    "description": "to finish, to end, to close"
+  },
+  {
+    "name": "終電",
+    "description": "last train (of the day)"
+  },
+  {
+    "name": "経済",
+    "description": "economy, economics"
+  },
+  {
+    "name": "結婚",
+    "description": "marriage"
+  },
+  {
+    "name": "結構",
+    "description": "splendid, nice, quite, wonderful, delicious, sweet, no thank you, I'm good (when refusing), enough"
+  },
+  {
+    "name": "絵",
+    "description": "picture, drawing, painting, sketch"
+  },
+  {
+    "name": "続く",
+    "description": "to continue, to last, to go on"
+  },
+  {
+    "name": "続ける",
+    "description": "to continue, to keep up, to keep on"
+  },
+  {
+    "name": "綺麗",
+    "description": "pretty, lovely, beautiful, fair"
+  },
+  {
+    "name": "緊張",
+    "description": "tension, mental strain, nervousness"
+  },
+  {
+    "name": "緑",
+    "description": "green"
+  },
+  {
+    "name": "締める",
+    "description": "to tie, to fasten"
+  },
+  {
+    "name": "練習",
+    "description": "practice, training, drill, (an) exercise, workout"
+  },
+  {
+    "name": "置く",
+    "description": "to put, to place"
+  },
+  {
+    "name": "美味しい",
+    "description": "delicious, tasty, sweet"
+  },
+  {
+    "name": "美術館",
+    "description": "art gallery, art museum"
+  },
+  {
+    "name": "習う",
+    "description": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in"
+  },
+  {
+    "name": "考える",
+    "description": "to think about, to take into consideration"
+  },
+  {
+    "name": "耳",
+    "description": "ear"
+  },
+  {
+    "name": "聞く",
+    "description": "to hear"
+  },
+  {
+    "name": "聞こえる",
+    "description": "to be heard, to be audible"
+  },
+  {
+    "name": "肉",
+    "description": "flesh"
+  },
+  {
+    "name": "肩",
+    "description": "shoulder"
+  },
+  {
+    "name": "背",
+    "description": "back, spine"
+  },
+  {
+    "name": "背が低い",
+    "description": "short (of a person)"
+  },
+  {
+    "name": "背が高い",
+    "description": "tall (of a person)"
+  },
+  {
+    "name": "背中",
+    "description": "back (of body)"
+  },
+  {
+    "name": "背広",
+    "description": "business suit"
+  },
+  {
+    "name": "胸",
+    "description": "chest, breast"
+  },
+  {
+    "name": "脱ぐ",
+    "description": "to take off (clothes, shoes, etc.), to undress"
+  },
+  {
+    "name": "自信",
+    "description": "self-confidence, confidence (in oneself)"
+  },
+  {
+    "name": "自分",
+    "description": "myself, yourself, oneself, himself, herself"
+  },
+  {
+    "name": "自動車",
+    "description": "automobile"
+  },
+  {
+    "name": "自然",
+    "description": "nature, spontaneity"
+  },
+  {
+    "name": "自由席",
+    "description": "unreserved seat, non-reserved seat"
+  },
+  {
+    "name": "自転車",
+    "description": "bicycle"
+  },
+  {
+    "name": "興味",
+    "description": "interest (in something), curiosity (about something), zest (for)"
+  },
+  {
+    "name": "興味がある",
+    "description": "to be interested (in)"
+  },
+  {
+    "name": "船",
+    "description": "ship, boat, watercraft, vessel, seaplane"
+  },
+  {
+    "name": "良く",
+    "description": "nicely, properly, well, skillfully, skilfully"
+  },
+  {
+    "name": "色",
+    "description": "colour, color"
+  },
+  {
+    "name": "色々",
+    "description": "various"
+  },
+  {
+    "name": "花",
+    "description": "flower, blossom, bloom, petal"
+  },
+  {
+    "name": "花瓶",
+    "description": "(flower) vase"
+  },
+  {
+    "name": "花見",
+    "description": "cherry blossom viewing, flower viewing"
+  },
+  {
+    "name": "若い",
+    "description": "young, youthful"
+  },
+  {
+    "name": "英語",
+    "description": "English (language)"
+  },
+  {
+    "name": "苺",
+    "description": "strawberry (esp. the garden strawberry, Fragaria x ananassa)"
+  },
+  {
+    "name": "茶",
+    "description": "tea"
+  },
+  {
+    "name": "茶碗",
+    "description": "rice bowl, tea cup, teacup"
+  },
+  {
+    "name": "茶色",
+    "description": "light brown, tawny"
+  },
+  {
+    "name": "茶色い",
+    "description": "light brown, tawny"
+  },
+  {
+    "name": "草",
+    "description": "grass, weed, herb, thatch"
+  },
+  {
+    "name": "荷物",
+    "description": "luggage, baggage, package"
+  },
+  {
+    "name": "菓子",
+    "description": "confectionery, sweets, candy, cake"
+  },
+  {
+    "name": "落ちる",
+    "description": "to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money)"
+  },
+  {
+    "name": "落とす",
+    "description": "to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind"
+  },
+  {
+    "name": "葉書",
+    "description": "postcard"
+  },
+  {
+    "name": "薬",
+    "description": "medicine, pharmaceuticals, (legal) drugs"
+  },
+  {
+    "name": "薬を飲む",
+    "description": "to take medicine"
+  },
+  {
+    "name": "行き",
+    "description": "the way there, outbound leg, outbound trip, departing leg"
+  },
+  {
+    "name": "行く",
+    "description": "to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach"
+  },
+  {
+    "name": "行ってきます",
+    "description": "I'm off, see you later"
+  },
+  {
+    "name": "行ってらっしゃい",
+    "description": "have a good day, take care, see you"
+  },
+  {
+    "name": "行目",
+    "description": "line number ..."
+  },
+  {
+    "name": "袋",
+    "description": "bag, sack, pouch"
+  },
+  {
+    "name": "被せる",
+    "description": "to cover (with something), to put on (e.g. on someone else's head), to plate something (with a metal), to pour or dash a liquid (on something), to charge (a person with a guilt)"
+  },
+  {
+    "name": "被る",
+    "description": "to put on (one's head), to wear, to have on, to pull over (one's head), to crown (oneself)"
+  },
+  {
+    "name": "西",
+    "description": "west"
+  },
+  {
+    "name": "要る",
+    "description": "to be needed, to be wanted"
+  },
+  {
+    "name": "見える",
+    "description": "to be seen, to be in sight"
+  },
+  {
+    "name": "見せる",
+    "description": "to show, to display"
+  },
+  {
+    "name": "見つかる",
+    "description": "to be found, to be discovered"
+  },
+  {
+    "name": "見つける",
+    "description": "to discover, to find (e.g. an error in a book), to come across, to detect, to spot"
+  },
+  {
+    "name": "見る",
+    "description": "to see, to look, to watch, to view, to observe"
+  },
+  {
+    "name": "覚える",
+    "description": "to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember"
+  },
+  {
+    "name": "親切",
+    "description": "kind, gentle, considerate, generous, friendly, nice"
+  },
+  {
+    "name": "角",
+    "description": "corner (e.g. desk, pavement)"
+  },
+  {
+    "name": "言う",
+    "description": "to say, to utter, to declare"
+  },
+  {
+    "name": "言葉",
+    "description": "language, dialect"
+  },
+  {
+    "name": "試合",
+    "description": "match, game, bout, contest"
+  },
+  {
+    "name": "試験",
+    "description": "examination, test, study, trial, experiment"
+  },
+  {
+    "name": "詰らない",
+    "description": "dull, uninteresting, boring, tedious"
+  },
+  {
+    "name": "話",
+    "description": "talk, speech, chat, story, conversation"
+  },
+  {
+    "name": "話す",
+    "description": "to talk, to speak, to converse, to chat"
+  },
+  {
+    "name": "話をする",
+    "description": "to have a talk, to tell a story"
+  },
+  {
+    "name": "誕生日",
+    "description": "birthday"
+  },
+  {
+    "name": "語",
+    "description": "language"
+  },
+  {
+    "name": "説明",
+    "description": "explanation, exposition"
+  },
+  {
+    "name": "読む",
+    "description": "to read"
+  },
+  {
+    "name": "誰",
+    "description": "who"
+  },
+  {
+    "name": "警官",
+    "description": "policeman"
+  },
+  {
+    "name": "警察",
+    "description": "police"
+  },
+  {
+    "name": "警察官",
+    "description": "police officer, policeman, policewoman"
+  },
+  {
+    "name": "豚カツ",
+    "description": "tonkatsu, breaded pork cutlet"
+  },
+  {
+    "name": "豚肉",
+    "description": "pork"
+  },
+  {
+    "name": "財布",
+    "description": "purse, handbag, wallet"
+  },
+  {
+    "name": "貰う",
+    "description": "to receive, to take, to accept"
+  },
+  {
+    "name": "あなた",
+    "description": "you"
+  },
+  {
+    "name": "買い物",
+    "description": "shopping, purchased goods"
+  },
+  {
+    "name": "買う",
+    "description": "to buy, to purchase"
+  },
+  {
+    "name": "貸す",
+    "description": "to lend, to loan"
+  },
+  {
+    "name": "賑やか",
+    "description": "bustling, busy, lively"
+  },
+  {
+    "name": "質問",
+    "description": "question, inquiry, enquiry"
+  },
+  {
+    "name": "赤",
+    "description": "red, crimson, scarlet"
+  },
+  {
+    "name": "赤い",
+    "description": "red"
+  },
+  {
+    "name": "赤ちゃん",
+    "description": "baby, infant"
+  },
+  {
+    "name": "走る",
+    "description": "to run"
+  },
+  {
+    "name": "起きる",
+    "description": "to get up, to rise, to blaze up (fire)"
+  },
+  {
+    "name": "趣味",
+    "description": "hobby, pastime"
+  },
+  {
+    "name": "足",
+    "description": "foot"
+  },
+  {
+    "name": "踊る",
+    "description": "to dance (orig. a hopping dance)"
+  },
+  {
+    "name": "身長",
+    "description": "height (of body), stature"
+  },
+  {
+    "name": "車",
+    "description": "car, automobile, vehicle"
+  },
+  {
+    "name": "軽い",
+    "description": "light (i.e. not heavy), feeling light (i.e. offering little resistance, moving easily)"
+  },
+  {
+    "name": "辛い",
+    "description": "spicy, hot"
+  },
+  {
+    "name": "辞書",
+    "description": "dictionary, lexicon"
+  },
+  {
+    "name": "辺",
+    "description": "area, vicinity, region"
+  },
+  {
+    "name": "まで",
+    "description": "until (a time), till, to, up to"
+  },
+  {
+    "name": "までに",
+    "description": "by, not later than, before"
+  },
+  {
+    "name": "近い",
+    "description": "near, close, short (distance)"
+  },
+  {
+    "name": "近く",
+    "description": "near, neighbourhood, neighborhood, vicinity"
+  },
+  {
+    "name": "近所",
+    "description": "neighbourhood, neighborhood"
+  },
+  {
+    "name": "返す",
+    "description": "to return (something), to restore, to put back"
+  },
+  {
+    "name": "返事",
+    "description": "reply, answer, response"
+  },
+  {
+    "name": "送る",
+    "description": "to send (a thing), to dispatch, to despatch, to transmit"
+  },
+  {
+    "name": "速く",
+    "description": "early, soon"
+  },
+  {
+    "name": "週末",
+    "description": "weekend"
+  },
+  {
+    "name": "週間",
+    "description": "week"
+  },
+  {
+    "name": "遅い",
+    "description": "slow"
+  },
+  {
+    "name": "遅く",
+    "description": "late"
+  },
+  {
+    "name": "遅くなる",
+    "description": "to be late"
+  },
+  {
+    "name": "遅刻",
+    "description": "lateness, tardiness, arriving late"
+  },
+  {
+    "name": "遊び",
+    "description": "playing"
+  },
+  {
+    "name": "遊ぶ",
+    "description": "to play, to enjoy oneself, to have a good time"
+  },
+  {
+    "name": "運動",
+    "description": "exercise, physical training, work-out"
+  },
+  {
+    "name": "運転",
+    "description": "operation (of a machine, etc.), operating, running, run"
+  },
+  {
+    "name": "道",
+    "description": "road, street, way, path, course, route, lane"
+  },
+  {
+    "name": "違い",
+    "description": "difference, discrepancy"
+  },
+  {
+    "name": "違う",
+    "description": "to differ (from), to vary"
+  },
+  {
+    "name": "遠い",
+    "description": "far, distant"
+  },
+  {
+    "name": "やる",
+    "description": "to do, to undertake, to perform, to play (a game), to study"
+  },
+  {
+    "name": "選手",
+    "description": "player (in game), team member"
+  },
+  {
+    "name": "選択",
+    "description": "selection, choice, option"
+  },
+  {
+    "name": "部屋",
+    "description": "room, apartment, flat, pad, chamber"
+  },
+  {
+    "name": "酒",
+    "description": "alcohol, sake"
+  },
+  {
+    "name": "醤油",
+    "description": "soy sauce, shoyu"
+  },
+  {
+    "name": "野球",
+    "description": "baseball"
+  },
+  {
+    "name": "野菜",
+    "description": "vegetable"
+  },
+  {
+    "name": "金",
+    "description": "money"
+  },
+  {
+    "name": "金持ち",
+    "description": "rich person"
+  },
+  {
+    "name": "金曜日",
+    "description": "Friday"
+  },
+  {
+    "name": "金色",
+    "description": "golden (colour, color)"
+  },
+  {
+    "name": "釣り",
+    "description": "fishing, angling"
+  },
+  {
+    "name": "鉛筆",
+    "description": "pencil"
+  },
+  {
+    "name": "銀色",
+    "description": "silver (color, colour)"
+  },
+  {
+    "name": "銀行",
+    "description": "bank"
+  },
+  {
+    "name": "鍵",
+    "description": "key"
+  },
+  {
+    "name": "長い",
+    "description": "long (distance)"
+  },
+  {
+    "name": "門",
+    "description": "gate"
+  },
+  {
+    "name": "閉める",
+    "description": "to close, to shut"
+  },
+  {
+    "name": "開く",
+    "description": "to open, to undo, to unseal, to unpack"
+  },
+  {
+    "name": "開く",
+    "description": "to open (e.g. doors), to be open (for business)"
+  },
+  {
+    "name": "開ける",
+    "description": "to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock"
+  },
+  {
+    "name": "間",
+    "description": "space (between), gap, interval, distance, stretch"
+  },
+  {
+    "name": "関係",
+    "description": "relation, relationship, connection"
+  },
+  {
+    "name": "降りる",
+    "description": "to descend (e.g. a mountain), to go down, to come down"
+  },
+  {
+    "name": "降る",
+    "description": "to fall (e.g. rain), to precipitate"
+  },
+  {
+    "name": "階段",
+    "description": "stairs, stairway, staircase"
+  },
+  {
+    "name": "集まる",
+    "description": "to gather, to collect, to assemble"
+  },
+  {
+    "name": "集める",
+    "description": "to collect, to assemble, to gather"
+  },
+  {
+    "name": "雑誌",
+    "description": "journal, magazine, periodical"
+  },
+  {
+    "name": "難しい",
+    "description": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.)"
+  },
+  {
+    "name": "雨",
+    "description": "rain"
+  },
+  {
+    "name": "雪",
+    "description": "snow"
+  },
+  {
+    "name": "雲",
+    "description": "cloud"
+  },
+  {
+    "name": "零",
+    "description": "zero, nought"
+  },
+  {
+    "name": "電気",
+    "description": "electricity, electric light, light bulb, electric"
+  },
+  {
+    "name": "電話",
+    "description": "telephone call, phone call"
+  },
+  {
+    "name": "電車",
+    "description": "train, electric train"
+  },
+  {
+    "name": "青",
+    "description": "blue"
+  },
+  {
+    "name": "青い",
+    "description": "blue, green"
+  },
+  {
+    "name": "青信号",
+    "description": "green light (traffic)"
+  },
+  {
+    "name": "静か",
+    "description": "quiet, silent"
+  },
+  {
+    "name": "面白い",
+    "description": "interesting, fascinating, intriguing, enthralling"
+  },
+  {
+    "name": "靴",
+    "description": "shoes, boots, footwear, footgear"
+  },
+  {
+    "name": "靴下",
+    "description": "socks, sock, stockings, stocking"
+  },
+  {
+    "name": "鞄",
+    "description": "bag, satchel, briefcase, basket"
+  },
+  {
+    "name": "音楽",
+    "description": "music, musical movement"
+  },
+  {
+    "name": "いただきます",
+    "description": "thank you (for the meal just served), I receive (this meal)"
+  },
+  {
+    "name": "頃",
+    "description": "(approximate) time, around, about, toward"
+  },
+  {
+    "name": "頭",
+    "description": "head"
+  },
+  {
+    "name": "頭がいい",
+    "description": "bright, intelligent"
+  },
+  {
+    "name": "頼む",
+    "description": "to request, to beg, to ask"
+  },
+  {
+    "name": "顔",
+    "description": "face, visage"
+  },
+  {
+    "name": "願い",
+    "description": "desire, wish, hope"
+  },
+  {
+    "name": "風",
+    "description": "wind, breeze, draught, draft"
+  },
+  {
+    "name": "風呂",
+    "description": "bath, bathtub"
+  },
+  {
+    "name": "風邪",
+    "description": "common cold, cold, influenza, flu, ague"
+  },
+  {
+    "name": "風邪をひく",
+    "description": "to catch a cold"
+  },
+  {
+    "name": "飛ぶ",
+    "description": "to fly, to soar"
+  },
+  {
+    "name": "飛行場",
+    "description": "airfield, airport"
+  },
+  {
+    "name": "飛行機",
+    "description": "aeroplane, airplane, aircraft"
+  },
+  {
+    "name": "食べる",
+    "description": "to eat"
+  },
+  {
+    "name": "食べ物",
+    "description": "food"
+  },
+  {
+    "name": "食堂",
+    "description": "dining room, dining hall, cafeteria, messroom"
+  },
+  {
+    "name": "飲み物",
+    "description": "drink, beverage"
+  },
+  {
+    "name": "飲む",
+    "description": "to drink, to gulp, to swallow, to take (medicine)"
+  },
+  {
+    "name": "飴",
+    "description": "(hard) candy, toffee"
+  },
+  {
+    "name": "飼う",
+    "description": "to keep (a pet or other animal), to have, to own, to raise, to rear, to feed"
+  },
+  {
+    "name": "首",
+    "description": "neck, fired"
+  },
+  {
+    "name": "駅",
+    "description": "station"
+  },
+  {
+    "name": "骨折",
+    "description": "bone fracture"
+  },
+  {
+    "name": "高い",
+    "description": "high, tall"
+  },
+  {
+    "name": "高校",
+    "description": "senior high school"
+  },
+  {
+    "name": "高校生",
+    "description": "senior high school student"
+  },
+  {
+    "name": "髪",
+    "description": "hair (on the head)"
+  },
+  {
+    "name": "魚",
+    "description": "fish"
+  },
+  {
+    "name": "鳥",
+    "description": "bird"
+  },
+  {
+    "name": "鶏肉",
+    "description": "chicken meat"
+  },
+  {
+    "name": "黄色",
+    "description": "yellow, amber"
+  },
+  {
+    "name": "黄色い",
+    "description": "yellow, shrill (high pitched) voice"
+  },
+  {
+    "name": "黒",
+    "description": "black"
+  },
+  {
+    "name": "黒い",
+    "description": "black"
+  },
+  {
+    "name": "黒板",
+    "description": "blackboard"
+  },
+  {
+    "name": "鼻",
+    "description": "nose"
+  },
+  {
+    "name": "鼻水",
+    "description": "nasal mucus, dripping nose, snot"
+  }
+]
