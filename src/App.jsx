@@ -13,7 +13,7 @@ function App() {
 
     const fetchFiles = async () => {
         try {
-            const response = await axios.get('/json/list.json'); // Relative URL
+            const response = await axios.get('json/list.json'); // Relative URL
             setFiles(response.data);
         } catch (error) {
             console.error('Error fetching files:', error);
@@ -22,7 +22,7 @@ function App() {
 
     const fetchData = async (fileName) => {
         try {
-            const response = await axios.get(`/json/${fileName}`); // Relative URL
+            const response = await axios.get(`json/${fileName}`); // Relative URL
             setData(response.data);
             setSelectedFile(fileName);
         } catch (error) {
